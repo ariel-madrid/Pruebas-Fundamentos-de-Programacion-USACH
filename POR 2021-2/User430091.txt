@@ -1,0 +1,819 @@
+2020-01-01 20:11:51,Tony Bennett,I Wanna Be Loved,Jazz,03:35
+2020-01-01 22:55:34,Doris Day,Till We Meet Again,Jazz,06:34
+2020-01-01 23:05:21,Lata Mangeshkar,Main Na Janoon,Pop,06:18
+2020-01-02 23:16:45,Jonah Jones,You're The Cream In My Coffee,Pop,05:34
+2020-01-03 03:53:50,Louis Prima,The Bigger The Figure (with Keely Smith),Blues,01:30
+2020-01-03 10:26:49,Dean Martin,You're The Right One,Jazz,03:58
+2020-01-03 14:49:24,Oscar Peterson,You Go To My Head,Jazz,02:44
+2020-01-04 02:49:03,Billie Holiday,Remember,Blues,06:33
+2020-01-04 05:28:26,Dean Martin,Kiss,Jazz,02:04
+2020-01-04 07:30:15,Tony Bennett,I Wanna Be Loved,Jazz,03:35
+2020-01-04 15:30:22,Ella Fitzgerald,Soon,Blues,08:15
+2020-01-04 23:18:45,Oscar Peterson,Surrey With The Fringe On Top,Jazz,02:14
+2020-01-07 05:11:57,Les Paul,The World Is Waiting For The Sunrise,Pop,06:17
+2020-01-08 00:35:32,Louis Armstrong,Loveless Love,Jazz,06:14
+2020-01-08 13:47:58,Marian Mcpartland,Yesterdays,Jazz,02:42
+2020-01-08 19:27:14,Dean Martin,Don't You Remember?,Jazz,02:13
+2020-01-09 05:24:29,Gerry Mulligan,Mulligan's Too,Jazz,03:39
+2020-01-12 19:20:35,Roy Haynes,Hagnes,Jazz,03:09
+2020-01-14 05:24:24,Miles Davis,Indian Summer,Jazz,07:13
+2020-01-14 10:42:12,Sarah Vaughan,Prelude To A Kiss,Jazz,06:51
+2020-01-14 12:17:27,Sarah Vaughan,Lullaby Of Birdland,Jazz,01:33
+2020-01-15 01:34:58,Mukesh,Raat Andheri Door Savera,Pop,07:04
+2020-01-16 08:25:03,Sven-bertil Taube,Viljen I Veta (would You Like To Know?),Pop,03:02
+2020-01-17 08:25:42,Freestyle,Opm Medley: When I Met You,Pop,07:13
+2020-01-18 12:02:05,Les Paul,Smoke Rings,Pop,04:18
+2020-01-19 19:54:11,Dean Martin,The Christmas Blues,Jazz,02:00
+2020-01-20 17:40:12,Billie Holiday,I Can't Face The Music,Blues,01:50
+2020-01-21 12:28:01,Louis Armstrong,Aunt Hagar's Blues,Jazz,02:19
+2020-01-22 11:14:25,Oscar Peterson,In A Mellow Tone,Jazz,05:55
+2020-01-22 16:30:25,Dean Martin,If I Could Sing Like Bing,Jazz,01:39
+2020-01-22 20:51:38,Frankie Laine,After You've Gone,Pop,07:24
+2020-01-22 23:04:59,Doris Day,Love Ya,Jazz,03:23
+2020-01-23 07:58:09,Asha Bhosle,Chahe Kitna Mujhe Tum Bulao Ji,Pop,03:01
+2020-01-23 10:08:00,Bud Powell,Yesterdays,Jazz,07:23
+2020-01-24 08:46:30,Oscar Peterson,What's New,Jazz,06:30
+2020-01-24 19:11:42,Chet Baker,Love Me Or Leave Me,Jazz,03:15
+2020-01-24 21:54:10,Stélios Kazantzídis,Klapse Me Mana Klapse Me,Pop,07:11
+2020-01-29 18:43:55,Oscar Peterson,You Go To My Head,Jazz,02:44
+2020-01-30 05:59:16,Charlie Parker,Night And Day,Jazz,05:25
+2020-01-30 11:52:57,Doris Day,Ready; Willing And Able,Jazz,06:52
+2020-01-31 01:28:41,Paul Bley,Topsy,Jazz,05:06
+2020-01-31 12:15:15,Louis Prima,Eleanor,Blues,01:53
+2020-01-31 14:04:19,Dean Martin,I Don't Care If The Sun Don't Shine,Jazz,04:32
+2020-02-01 19:06:35,Ghantasala,Kanugona Galano,Pop,03:36
+2020-02-02 01:01:18,Sarah Vaughan,September Song,Jazz,03:08
+2020-02-02 03:53:05,Lata Mangeshkar,Chupke Chupke (from ''paying Guest''),Pop,03:41
+2020-02-02 13:08:11,Dean Martin,Moments Like This,Jazz,02:51
+2020-02-03 15:45:54,Nat King Cole,Pretend,Jazz,06:29
+2020-02-05 00:01:53,Marian Mcpartland,Love Is Here To Stay,Jazz,02:43
+2020-02-09 00:00:45,Les Paul,Smoke Rings,Pop,04:18
+2020-02-10 13:45:53,Jonah Jones,You're The Cream In My Coffee,Pop,05:34
+2020-02-11 16:55:06,Dean Martin,I'm In Love With You,Jazz,01:41
+2020-02-13 22:33:49,Dean Martin,Carolina In The Morning,Jazz,03:20
+2020-02-14 21:50:03,Oscar Peterson,I've Got You Under My Skin,Jazz,01:49
+2020-02-15 22:50:15,Dean Martin,The Christmas Blues,Jazz,02:00
+2020-02-16 11:25:45,Les Paul,I'm Sitting On Top Of The World,Pop,05:34
+2020-02-16 13:51:14,Dean Martin,Three Wishes,Jazz,02:49
+2020-02-16 16:04:29,Lata Mangeshkar,Chupke Chupke (from ''paying Guest''),Pop,03:41
+2020-02-16 22:20:39,Judy Garland,The Man That Got Away,Jazz,02:18
+2020-02-18 16:30:56,Dean Martin,All I Have To Give You Is My Love,Jazz,04:49
+2020-02-21 09:14:37,Frankie Laine,Necessary Evil,Pop,06:35
+2020-02-23 02:55:15,Paul Bley,Topsy,Jazz,05:06
+2020-02-23 14:03:58,Dean Martin,Vieni Su (say You Love Me; Too),Jazz,06:25
+2020-02-23 15:44:17,Noro Morales,Silencio,Jazz,05:07
+2020-02-23 22:19:06,Piney Brown,How About Rocking With Me,Blues,06:19
+2020-02-23 23:01:04,Thelonious Monk,Let's Call This,Jazz,07:57
+2020-02-24 01:33:00,Asha Bhosle,Tu Bol Na Bol,Pop,04:08
+2020-02-24 09:07:19,Buck Clayton,Jayhawk,Jazz,07:24
+2020-02-25 07:06:50,Tony Bennett,Winter Wonderland,Jazz,05:40
+2020-02-27 09:03:20,Gerry Mulligan Quartet,Love Me Or Leave Me,Jazz,07:57
+2020-02-27 15:17:19,Mohammed Rafi,Jahan Men Log Sachhe Ashikon Ko,Pop,03:07
+2020-02-27 22:04:37,Buck Clayton,Jayhawk,Jazz,07:24
+2020-03-02 10:37:45,Chet Baker,What'll I Do,Jazz,04:44
+2020-03-04 18:13:49,Oscar Peterson,I Was Doing All Right,Jazz,03:42
+2020-03-04 22:06:23,Paul Bley,Topsy,Jazz,05:06
+2020-03-06 11:56:33,Les Paul,I'm Sitting On Top Of The World,Pop,05:34
+2020-03-07 21:50:04,Oscar Peterson,I Was Doing All Right,Jazz,03:42
+2020-03-08 03:33:37,Tony Bennett,Winter Wonderland,Jazz,05:40
+2020-03-08 08:17:36,Dean Martin,Money Burns A Hole In My Pocket,Jazz,04:23
+2020-03-09 08:04:22,Dean Martin,Rock-a-bye Your Baby With A Dixie Melody,Jazz,03:23
+2020-03-11 07:05:38,Gerry Mulligan Quartet,Love Me Or Leave Me,Jazz,07:57
+2020-03-11 12:59:30,Doris Day,Soft As The Starlight,Jazz,03:33
+2020-03-11 15:09:33,Harry Belafonte,The Next Big River,Pop,06:01
+2020-03-12 11:03:23,Stan Getz,Crazy Rhythm,Jazz,02:44
+2020-03-12 17:17:17,Bobby Vinton,Blue Velvet,Pop,06:55
+2020-03-13 04:37:07,Ghantasala,Thunintha Pin,Pop,08:11
+2020-03-14 02:15:40,Lata Mangeshkar,Chupke Chupke (from ''paying Guest''),Pop,03:41
+2020-03-14 14:24:10,Dean Martin,Just For Fun,Jazz,08:00
+2020-03-15 23:51:40,The Drifters,The Bells Of St. Mary's,Pop,02:51
+2020-03-17 08:24:53,Ray Noble,Love Is The Sweetest Thing,Jazz,08:11
+2020-03-19 16:07:56,Jonah Jones,You're The Cream In My Coffee,Pop,05:34
+2020-03-19 16:19:10,Harry Belafonte,Mark Twain,Pop,06:48
+2020-03-20 17:08:49,Oscar Peterson,East Of The Sun (and West Of The Moon),Jazz,02:01
+2020-03-21 18:01:16,Bing Crosby,Santa Claus Is Comin' To Town,Jazz,07:40
+2020-03-21 18:53:48,Ella Fitzgerald,You'll Have To Swing It (mr. Paganini),Blues,07:38
+2020-03-24 11:02:05,Dean Martin,Sailors' Polka,Jazz,04:05
+2020-03-25 03:04:01,Andy Williams,It's The Most Wonderful Time Of The Year,Pop,01:49
+2020-03-25 21:32:46,Les Paul,The Carioca,Pop,04:06
+2020-03-26 01:28:37,Dean Martin,Long; Long Ago,Jazz,02:54
+2020-03-26 02:15:44,Lata Mangeshkar,Paas Nahin Aaiye Haath Na Lagaiye,Pop,08:14
+2020-03-26 13:35:59,Thelonious Monk,Ask Me Now,Jazz,03:18
+2020-03-27 01:35:26,Ella Fitzgerald,What Is There To Say?,Blues,07:04
+2020-03-27 14:56:05,Dean Martin,Three Wishes,Jazz,02:49
+2020-03-27 16:53:17,Lata Mangeshkar,Sitaron Ki Mehfil Saji,Pop,07:41
+2020-03-28 09:26:09,Les Paul,Dark Eyes,Pop,05:07
+2020-03-29 11:47:05,Ben Webster,Poutin',Jazz,04:25
+2020-03-29 22:49:44,Doris Day,Moonlight Bay,Jazz,02:23
+2020-03-30 22:36:53,Sarah Vaughan,You Hit The Spot,Jazz,07:51
+2020-03-31 04:07:46,Chet Baker,It's You Or No One,Jazz,05:01
+2020-03-31 10:59:12,Dean Martin,With My Eyes Wide Open I'm Dreaming,Jazz,07:09
+2020-03-31 18:43:30,Ella Fitzgerald,It Might As Well Be Spring,Blues,01:41
+2020-04-01 01:29:18,Dean Martin,If,Jazz,02:03
+2020-04-01 08:10:42,Asha Bhosle,Kotha Mukunda,Pop,03:27
+2020-04-02 10:21:06,Duke Ellington,Solitude,Jazz,06:09
+2020-04-03 01:27:19,Duke Ellington,Prelude To A Kiss,Jazz,05:04
+2020-04-03 02:55:26,Doris Day,Soft As The Starlight,Jazz,03:33
+2020-04-04 06:49:30,Benny Carter,But Not For Me,Jazz,06:14
+2020-04-07 04:57:34,Ben Webster,Poutin',Jazz,04:25
+2020-04-08 08:02:21,Oscar Peterson,Bill,Jazz,03:42
+2020-04-08 19:04:11,George Shearing,Lullaby Of Birdland,Jazz,05:38
+2020-04-09 07:40:12,Dean Martin,Absence Makes The Heart Grow Fonder (for Somebody Else),Jazz,02:08
+2020-04-10 19:16:53,Dean Martin,That Certain Party,Jazz,04:27
+2020-04-11 11:20:28,Charlie Parker,Autumn In New York,Jazz,06:13
+2020-04-13 02:55:34,Lata Mangeshkar,Main Na Janoon,Pop,06:18
+2020-04-13 08:00:59,Tony Bennett,I Wanna Be Loved,Jazz,03:35
+2020-04-13 14:30:08,Oscar Peterson,I've Got You Under My Skin,Jazz,01:49
+2020-04-13 22:13:44,Dean Martin,The Christmas Blues,Jazz,02:00
+2020-04-15 11:13:31,Mukesh,Hum Tujhse Mohabbat Kar Ke,Pop,03:56
+2020-04-17 20:20:20,Count Basie,Why Not,Jazz,08:01
+2020-04-18 06:50:55,Ella Fitzgerald,I've Got A Crush On You,Blues,03:36
+2020-04-18 12:59:05,Liva Weel,Drømmer Man Om Den; Vågner..,Pop,01:52
+2020-04-19 09:32:19,Stélios Kazantzídis,Klapse Me Mana Klapse Me,Pop,07:11
+2020-04-19 14:07:39,Dean Martin,Muskrat Ramble,Jazz,05:21
+2020-04-21 08:51:21,Sarah Vaughan,September Song,Jazz,03:08
+2020-04-22 21:31:40,The Ravens,Gotta Find My Baby,Blues,02:54
+2020-04-24 06:30:24,Dean Martin,Rock-a-bye Your Baby With A Dixie Melody,Jazz,03:23
+2020-04-24 10:04:34,Rosemary Clooney,Count Your Blessings Instead Of Sheep,Jazz,07:34
+2020-04-25 08:58:03,Johnny Mathis,It's Not For Me To Say,Pop,06:15
+2020-04-25 14:00:21,Bobby Vinton,Blue Velvet,Pop,06:55
+2020-04-26 09:06:42,Asha Bhosle,Kotha Mukunda,Pop,03:27
+2020-04-26 19:05:21,Dean Martin,Love Me; Love Me,Jazz,02:22
+2020-04-26 19:31:55,Ghantasala,Kanugona Galano,Pop,03:36
+2020-05-01 05:54:45,Dean Martin,Muskrat Ramble,Jazz,05:21
+2020-05-01 06:47:48,Harry Belafonte,Mark Twain,Pop,06:48
+2020-05-01 16:32:49,Les Paul,I'm Sitting On Top Of The World,Pop,05:34
+2020-05-02 10:47:35,George Shearing,Lullaby Of Birdland,Jazz,05:38
+2020-05-03 01:06:31,Dean Martin,If I Should Love Again,Jazz,05:02
+2020-05-04 17:52:49,Dizzy Gillespie,Swing Low...sweet Cadillac,Jazz,07:12
+2020-05-05 03:04:10,Dean Martin,Blue Smoke (kohu-auwahi),Jazz,06:38
+2020-05-07 07:51:31,Dean Martin,Money Burns A Hole In My Pocket,Jazz,04:23
+2020-05-07 19:43:26,George Shearing,Lullaby Of Birdland,Jazz,05:38
+2020-05-08 13:07:50,Marian Mcpartland,Yesterdays,Jazz,02:42
+2020-05-09 13:05:16,Doris Day,Till We Meet Again,Jazz,06:34
+2020-05-09 22:43:19,Dean Martin,I Know A Dream When I See One,Jazz,03:31
+2020-05-10 07:56:48,George Shearing,September In The Rain,Jazz,07:20
+2020-05-11 05:00:10,Dean Martin,Be Honest With Me,Jazz,05:30
+2020-05-12 13:19:23,Chet Baker,Goodbye,Jazz,05:45
+2020-05-13 07:29:39,Ben Webster,Poutin',Jazz,04:25
+2020-05-13 09:31:24,Louis Prima,One Mint Julep,Blues,04:41
+2020-05-13 09:46:10,Tony Bennett,Winter Wonderland,Jazz,05:40
+2020-05-15 17:23:23,Rosemary Clooney,Count Your Blessings Instead Of Sheep,Jazz,07:34
+2020-05-16 09:44:25,Oscar Peterson,How High The Moon,Jazz,03:05
+2020-05-16 17:37:07,Ghantasala,Thunintha Pin,Pop,08:11
+2020-05-17 21:06:39,T. M. Soundararajan,Ethanai Periya,Pop,07:10
+2020-05-18 17:21:08,Duke Ellington,Prelude To A Kiss,Jazz,05:04
+2020-05-19 00:52:13,Ella Fitzgerald,Lover; Come Back To Me,Blues,06:32
+2020-05-19 19:09:16,Stan Kenton,Yesterdays,Jazz,04:00
+2020-05-20 07:32:21,Gene Ammons,It's The Talk Of The Town,Jazz,06:00
+2020-05-20 23:58:53,Frankie Laine,Necessary Evil,Pop,06:35
+2020-05-21 20:14:59,Erroll Garner,Lullaby Of Birdland,Jazz,01:33
+2020-05-22 02:14:43,Anita O'day,Fine And Dandy,Jazz,02:04
+2020-05-22 08:22:49,Dean Martin,Second Chance,Jazz,07:47
+2020-05-24 22:39:52,Frankie Laine,Necessary Evil,Pop,06:35
+2020-05-25 01:09:28,Bud Powell,Yesterdays,Jazz,07:23
+2020-05-25 15:26:57,Les Paul,Smoke Rings,Pop,04:18
+2020-06-01 19:09:05,Chet Baker,It's You Or No One,Jazz,05:01
+2020-06-02 04:37:17,Dean Martin,Until,Jazz,01:52
+2020-06-02 05:58:07,Dean Martin,There's My Lover,Jazz,05:39
+2020-06-02 16:53:31,Odetta,No More Cane On The Brazo,Blues,07:05
+2020-06-02 23:59:29,Gene Ammons,You Go To My Head,Jazz,02:47
+2020-06-03 21:37:02,George Shearing,Pick Yourself Up,Jazz,05:16
+2020-06-03 21:48:27,Sonny Rollins,No Moe,Jazz,04:10
+2020-06-04 05:49:48,Duke Ellington,Solitude,Jazz,06:09
+2020-06-04 15:09:52,Ben Webster,Poutin',Jazz,04:25
+2020-06-04 21:06:01,Harry Belafonte,Mark Twain,Pop,06:48
+2020-06-08 01:22:29,Oscar Peterson,I Was Doing All Right,Jazz,03:42
+2020-06-08 15:32:29,Doris Day,Soft As The Starlight,Jazz,03:33
+2020-06-09 19:24:39,Oscar Peterson,How High The Moon,Jazz,03:05
+2020-06-10 04:37:35,Dave Brubeck,Out Of Nowhere,Jazz,04:40
+2020-06-10 09:42:39,Anita O'day,Fine And Dandy,Jazz,02:04
+2020-06-11 10:10:33,Dean Martin,I'm Yours,Jazz,05:14
+2020-06-11 19:58:25,Oscar Peterson,This Can't Be Love,Jazz,03:55
+2020-06-12 19:04:52,Dean Martin,Be Honest With Me,Jazz,05:30
+2020-06-13 05:23:15,Count Basie,Bunny,Jazz,07:39
+2020-06-13 06:26:48,Billie Holiday,Remember,Blues,06:33
+2020-06-13 15:10:41,Oscar Peterson,In A Mellow Tone,Jazz,05:55
+2020-06-13 19:55:41,Noro Morales,Silencio,Jazz,05:07
+2020-06-14 05:40:49,Anita O'day,Fine And Dandy,Jazz,02:04
+2020-06-15 05:09:36,Nat King Cole Trio,A Portrait Of Jennie,Jazz,04:20
+2020-06-18 01:12:49,Doris Day,Till We Meet Again,Jazz,06:34
+2020-06-19 13:38:59,Dean Martin,Until,Jazz,01:52
+2020-06-21 01:59:30,Dean Martin,If I Could Sing Like Bing,Jazz,01:39
+2020-06-21 03:49:09,Nat King Cole,Pretend,Jazz,06:29
+2020-06-21 14:15:34,Dean Martin,Kiss,Jazz,02:04
+2020-06-22 12:29:47,Ella Fitzgerald,Please Be Kind,Blues,03:16
+2020-06-23 07:21:30,Benny Carter,But Not For Me,Jazz,06:14
+2020-06-23 09:04:39,Frankie Laine,Necessary Evil,Pop,06:35
+2020-06-23 13:36:14,Giorgos Papadopoulos,Apopse Eida Oneiro,Pop,07:12
+2020-06-23 13:39:06,Oscar Peterson,Night And Day,Jazz,07:51
+2020-06-24 08:21:45,Dean Martin,I'm In Love With You,Jazz,01:41
+2020-06-26 03:06:36,Dean Martin,Second Chance,Jazz,07:47
+2020-06-27 10:12:21,Gene Ammons,You Go To My Head,Jazz,02:47
+2020-06-27 18:59:19,Dean Martin,I Want You,Jazz,04:04
+2020-06-28 09:11:19,Louis Prima,Basta,Blues,06:24
+2020-06-28 10:10:52,Anita O'day,Fine And Dandy,Jazz,02:04
+2020-06-28 19:47:02,Asha Bhosle,Mere Hamsafar Tujhe Kya Khabar,Pop,03:33
+2020-06-28 21:41:39,Doris Day,With A Song In My Heart,Jazz,07:51
+2020-06-29 02:49:30,Dean Martin,I Never Had A Chance,Jazz,06:57
+2020-06-29 20:16:11,Louis Prima,One Mint Julep,Blues,04:41
+2020-07-01 00:52:51,Lata Mangeshkar,Le Chal Ri Nindiya Le Chal Hamen,Pop,03:00
+2020-07-01 22:50:59,Doris Day,Darn That Dream,Jazz,04:48
+2020-07-02 03:25:00,Doris Day,Till We Meet Again,Jazz,06:34
+2020-07-02 10:02:40,Asha Bhosle,Tu Bol Na Bol,Pop,04:08
+2020-07-02 17:34:55,Doris Day,I Know That You Know,Jazz,02:47
+2020-07-03 17:35:36,Ella Fitzgerald,You'll Have To Swing It (mr. Paganini),Blues,07:38
+2020-07-06 00:24:46,The Chordettes,Carolina Moon,Pop,03:04
+2020-07-06 12:56:27,Rosemary Clooney,Mandy,Jazz,07:02
+2020-07-06 15:13:33,Vic Damone,An Affair To Remember,Jazz,04:27
+2020-07-07 09:57:49,Talat Mahmood,Ansoo To Nahin Hai Ankhon Men,Pop,06:42
+2020-07-07 13:32:46,Louis Prima,Eleanor,Blues,01:53
+2020-07-07 21:16:38,Dean Martin,Hominy Grits,Jazz,03:34
+2020-07-07 23:09:00,Chet Baker,It's You Or No One,Jazz,05:01
+2020-07-10 12:04:05,Les Paul,Chicken Reel,Pop,06:46
+2020-07-10 14:44:11,A. M. Rajah,Gopiparivrito,Pop,06:45
+2020-07-10 16:50:45,Asha Bhosle,Mere Hamsafar Tujhe Kya Khabar,Pop,03:33
+2020-07-11 16:55:44,Rosemary Clooney,Bad News,Jazz,07:55
+2020-07-11 19:39:58,Buck Clayton,Jayhawk,Jazz,07:24
+2020-07-12 11:52:09,Doris Day,If You Were The Only Girl,Jazz,07:38
+2020-07-12 15:51:29,Nat King Cole Trio,What'll I Do?,Jazz,04:02
+2020-07-13 08:22:14,Doris Day,Hold Me In Your Arms,Jazz,02:03
+2020-07-15 15:29:19,Giorgos Papadopoulos,Apopse Eida Oneiro,Pop,07:12
+2020-07-15 17:52:51,Les Paul,Chicken Reel,Pop,06:46
+2020-07-15 23:26:30,Oscar Peterson,I Was Doing All Right,Jazz,03:42
+2020-07-16 17:12:09,Dean Martin,Long; Long Ago,Jazz,02:54
+2020-07-17 17:51:18,Oscar Peterson,What's New,Jazz,06:30
+2020-07-18 15:33:31,Dean Martin,I Never Had A Chance,Jazz,06:57
+2020-07-20 09:34:28,The Andrews Sisters,Winter Wonderland,Jazz,02:07
+2020-07-20 15:28:48,Dean Martin,If I Could Sing Like Bing,Jazz,01:39
+2020-07-22 20:54:46,Judy Garland,The Man That Got Away,Jazz,02:18
+2020-07-23 19:52:46,Dean Martin,I Don't Care If The Sun Don't Shine,Jazz,04:32
+2020-07-24 19:28:47,Mohammed Rafi,Jahan Men Log Sachhe Ashikon Ko,Pop,03:07
+2020-07-25 08:18:06,Dean Martin,Muskrat Ramble,Jazz,05:21
+2020-07-25 09:41:47,Erroll Garner,Lullaby Of Birdland,Jazz,01:33
+2020-07-26 21:39:14,Tony Bennett,Cold Cold Heart,Jazz,08:00
+2020-07-28 02:18:16,Lata Mangeshkar,Chandan Ka Palna Resham Ko Dori,Pop,06:58
+2020-07-28 02:58:27,Doris Day,Till We Meet Again,Jazz,06:34
+2020-07-30 15:24:23,Doris Day,Anyone Can Fall In Love,Jazz,05:53
+2020-07-31 05:33:49,Louis Prima,The Bigger The Figure (with Keely Smith),Blues,01:30
+2020-08-02 03:24:11,Les Paul,Chicken Reel,Pop,06:46
+2020-08-02 07:55:06,Paul Bley,My Heart,Jazz,07:58
+2020-08-02 18:07:11,Ella Fitzgerald,I've Got A Crush On You,Blues,03:36
+2020-08-03 23:24:34,Ella Fitzgerald,You'll Have To Swing It (mr. Paganini),Blues,07:38
+2020-08-04 06:54:25,Peggy Lee,Love; You Didn't Do Right By Me,Jazz,02:10
+2020-08-04 12:43:48,Chet Baker,There Will Never Be Another You,Jazz,03:18
+2020-08-05 00:39:47,Ella Fitzgerald,It Might As Well Be Spring,Blues,01:41
+2020-08-05 05:43:18,Oscar Peterson,East Of The Sun (and West Of The Moon),Jazz,02:01
+2020-08-05 20:33:06,Dean Martin,Three Wishes,Jazz,02:49
+2020-08-07 01:57:04,Giorgos Papadopoulos,Apopse Eida Oneiro,Pop,07:12
+2020-08-07 17:59:14,Dizzy Gillespie,School Days,Jazz,04:18
+2020-08-07 21:12:11,Dean Martin,With My Eyes Wide Open I'm Dreaming,Jazz,07:09
+2020-08-07 22:13:14,Johnny Mathis,It's Not For Me To Say,Pop,06:15
+2020-08-09 10:34:32,Stélios Kazantzídis,Klapse Me Mana Klapse Me,Pop,07:11
+2020-08-09 17:10:34,Oscar Peterson,I Was Doing All Right,Jazz,03:42
+2020-08-09 22:36:28,Oscar Peterson,Prelude To A Kiss,Jazz,02:06
+2020-08-10 00:53:59,Charlie Parker,Autumn In New York,Jazz,06:13
+2020-08-10 07:52:25,Sonny Rollins,Moving Out,Jazz,08:09
+2020-08-10 20:29:49,Judy Garland,It's A New World,Jazz,01:55
+2020-08-12 04:52:18,Nat King Cole Trio,What'll I Do?,Jazz,04:02
+2020-08-13 00:53:53,Ella Fitzgerald,But Not For Me,Blues,07:18
+2020-08-13 04:09:59,Count Basie,Bunny,Jazz,07:39
+2020-08-16 08:50:53,Dean Martin,I Know A Dream When I See One,Jazz,03:31
+2020-08-17 08:22:09,Miles Davis,Indian Summer,Jazz,07:13
+2020-08-19 07:35:13,Frankie Laine,After You've Gone,Pop,07:24
+2020-08-19 11:55:28,Dean Martin,Beside You,Jazz,02:45
+2020-08-20 09:30:23,Marian Mcpartland,Love Is Here To Stay,Jazz,02:43
+2020-08-21 12:35:06,Ella Fitzgerald,But Not For Me,Blues,07:18
+2020-08-21 19:46:12,The Chordettes,For Me And My Gal,Pop,02:46
+2020-08-22 02:20:22,Lata Mangeshkar,Judai Ki Khabar Hoti Agar,Pop,01:52
+2020-08-22 14:05:34,Billie Holiday,Yesterdays,Blues,04:38
+2020-08-22 19:20:04,Dean Martin,I Don't Care If The Sun Don't Shine,Jazz,04:32
+2020-08-23 03:12:02,Judy Garland,The Man That Got Away,Jazz,02:18
+2020-08-23 17:01:29,Oscar Peterson,East Of The Sun (and West Of The Moon),Jazz,02:01
+2020-08-25 00:58:20,Rosemary Clooney,Bad News,Jazz,07:55
+2020-08-25 21:08:37,Dean Martin,Moments Like This,Jazz,02:51
+2020-08-27 02:37:17,Judy Garland,Here's What I'm Here For,Jazz,01:42
+2020-08-27 12:55:56,Bing Crosby,White Christmas,Jazz,05:20
+2020-08-28 21:28:34,Dean Martin,I'm In Love With You,Jazz,01:41
+2020-08-29 05:41:57,Liva Weel,Drømmer Man Om Den; Vågner..,Pop,01:52
+2020-08-31 13:43:27,Oscar Peterson,This Can't Be Love,Jazz,03:55
+2020-09-01 19:27:40,Thelonious Monk,Smoke Gets In Your Eyes,Jazz,05:07
+2020-09-05 00:44:49,Dean Martin,Money Burns A Hole In My Pocket,Jazz,04:23
+2020-09-06 10:15:42,George Shearing,So Rare,Jazz,04:26
+2020-09-06 10:34:45,Sven-bertil Taube,Viljen I Veta (would You Like To Know?),Pop,03:02
+2020-09-06 16:38:49,Lata Mangeshkar,Le Chal Ri Nindiya Le Chal Hamen,Pop,03:00
+2020-09-08 09:49:22,Lata Mangeshkar,Main Na Janoon,Pop,06:18
+2020-09-08 12:01:42,Dean Martin,Rock-a-bye Your Baby With A Dixie Melody,Jazz,03:23
+2020-09-09 03:44:11,Louis Armstrong,Long Gone (from The Bowlin' Green),Jazz,05:00
+2020-09-09 21:29:01,Buck Clayton,Jayhawk,Jazz,07:24
+2020-09-11 19:33:40,Charlie Parker,Night And Day,Jazz,05:25
+2020-09-11 20:57:37,Doris Day,I'll Forget You,Jazz,05:34
+2020-09-12 04:39:46,Dean Martin,Love Me; Love Me,Jazz,02:22
+2020-09-12 08:25:29,Lata Mangeshkar,Main Na Janoon,Pop,06:18
+2020-09-12 13:11:26,Dean Martin,I Want You,Jazz,04:04
+2020-09-13 01:58:03,Judy Garland,Lose That Long Face,Jazz,02:06
+2020-09-13 22:58:21,Dean Martin,Beside You,Jazz,02:45
+2020-09-14 08:40:02,Rosemary Clooney,Bad News,Jazz,07:55
+2020-09-14 12:08:22,Mukesh,Raat Andheri Door Savera,Pop,07:04
+2020-09-14 15:25:53,Sarah Vaughan,I'm Glad There Is You,Jazz,01:45
+2020-09-15 17:32:53,Chet Baker,There Will Never Be Another You,Jazz,03:18
+2020-09-15 21:31:24,Ghantasala,Avanee Nee Pathi,Pop,07:34
+2020-09-16 07:24:52,Dean Martin,Don't You Remember?,Jazz,02:13
+2020-09-16 14:38:34,Duke Ellington,Things Ain't What They Used To Be,Jazz,06:09
+2020-09-16 22:25:27,Bing Crosby,Count Your Blessings Instead Of Sheep,Jazz,02:47
+2020-09-17 04:17:42,Thelonious Monk,Ask Me Now,Jazz,03:18
+2020-09-19 03:23:54,Dean Martin,'til I Find You,Jazz,02:09
+2020-09-19 04:05:44,Ella Fitzgerald,Taking A Chance On Love,Blues,06:32
+2020-09-21 02:51:04,The Andrews Sisters,Winter Wonderland,Jazz,02:07
+2020-09-21 14:26:06,Rosemary Clooney,Bad News,Jazz,07:55
+2020-09-22 16:10:37,Anita O'day,Fine And Dandy,Jazz,02:04
+2020-09-24 01:18:23,George Shearing,Lullaby Of Birdland,Jazz,05:38
+2020-09-24 22:07:29,Tony Bennett,I Wanna Be Loved,Jazz,03:35
+2020-09-25 00:05:58,Sarah Vaughan,Prelude To A Kiss,Jazz,06:51
+2020-09-26 19:22:33,Ghantasala,Avanee Nee Pathi,Pop,07:34
+2020-09-27 01:24:04,Thelonious Monk,Smoke Gets In Your Eyes,Jazz,05:07
+2020-09-27 05:39:20,Ella Fitzgerald,Thanks For The Memory,Blues,07:41
+2020-09-27 13:55:55,Doris Day,Oh Me! Oh My! Oh You!,Jazz,04:54
+2020-09-27 14:58:04,Bing Crosby,Snow,Jazz,07:35
+2020-09-28 23:39:32,Nat King Cole Trio,What'll I Do?,Jazz,04:02
+2020-09-29 07:02:52,Ella Fitzgerald,Soon,Blues,08:15
+2020-10-01 05:43:12,Tony Bennett,I Wanna Be Loved,Jazz,03:35
+2020-10-01 13:09:32,Tony Bennett,Winter Wonderland,Jazz,05:40
+2020-10-02 07:00:43,Dean Martin,If I Should Love Again,Jazz,05:02
+2020-10-02 19:14:15,Asha Bhosle,Gullyachi Shapath,Pop,06:37
+2020-10-02 19:37:33,Rosemary Clooney,Snow,Jazz,07:59
+2020-10-03 20:49:08,Doris Day,With A Song In My Heart,Jazz,07:51
+2020-10-03 22:22:07,Dizzy Gillespie,Love Me; Pretty Baby,Jazz,04:43
+2020-10-04 09:09:31,T. M. Soundararajan,Ethanai Periya,Pop,07:10
+2020-10-04 23:50:06,Dean Martin,Love Me; Love Me,Jazz,02:22
+2020-10-07 03:20:25,Ghantasala,Thunintha Pin,Pop,08:11
+2020-10-08 08:15:17,Dean Martin,Vieni Su (say You Love Me; Too),Jazz,06:25
+2020-10-08 10:04:09,Dean Martin,Absence Makes The Heart Grow Fonder (for Somebody Else),Jazz,02:08
+2020-10-08 19:18:23,Dean Martin,Hominy Grits,Jazz,03:34
+2020-10-09 14:26:16,Erroll Garner,Lullaby Of Birdland,Jazz,01:33
+2020-10-09 18:18:32,Dean Martin,Be Honest With Me,Jazz,05:30
+2020-10-10 12:57:43,Dean Martin,Moments Like This,Jazz,02:51
+2020-10-12 09:56:01,Doris Day,I'll Forget You,Jazz,05:34
+2020-10-14 08:40:45,Sonny Rollins,Moving Out,Jazz,08:09
+2020-10-14 17:14:32,Doris Day,Darn That Dream,Jazz,04:48
+2020-10-15 02:37:24,Doris Day,Oh Me! Oh My! Oh You!,Jazz,04:54
+2020-10-15 03:59:37,Ghantasala,Thunintha Pin,Pop,08:11
+2020-10-15 15:28:43,Dean Martin,If,Jazz,02:03
+2020-10-16 10:49:55,Ghantasala,Thunintha Pin,Pop,08:11
+2020-10-17 00:40:08,Dean Martin,That's What I Like,Jazz,02:33
+2020-10-17 04:12:41,Ella Fitzgerald,Soon,Blues,08:15
+2020-10-17 16:05:30,Dean Martin,Long; Long Ago,Jazz,02:54
+2020-10-18 01:50:40,Dean Martin,Blue Smoke (kohu-auwahi),Jazz,06:38
+2020-10-18 10:10:05,Stan Kenton,Yesterdays,Jazz,04:00
+2020-10-18 19:33:27,George Shearing,Pick Yourself Up,Jazz,05:16
+2020-10-18 23:04:50,Roy Haynes,Hagnes,Jazz,03:09
+2020-10-19 12:08:38,Rosemary Clooney,Mandy,Jazz,07:02
+2020-10-19 14:48:17,Dean Martin,If I Could Sing Like Bing,Jazz,01:39
+2020-10-19 22:33:39,Dean Martin,I'll Always Love You (day After Day),Jazz,01:52
+2020-10-20 03:59:23,Thelonious Monk,Monk's Mood,Jazz,06:41
+2020-10-20 19:57:52,Frankie Laine,After You've Gone,Pop,07:24
+2020-10-21 13:42:42,Chet Baker,There Will Never Be Another You,Jazz,03:18
+2020-10-23 04:38:49,Rosemary Clooney,Mandy,Jazz,07:02
+2020-10-24 10:01:23,Bing Crosby,Santa Claus Is Comin' To Town,Jazz,07:40
+2020-10-27 16:06:03,Dean Martin,That Certain Party,Jazz,04:27
+2020-10-27 23:25:52,Dean Martin,I Ran All The Way Home,Jazz,06:20
+2020-10-29 02:58:39,Dean Martin,Just For Fun,Jazz,08:00
+2020-10-29 03:20:42,Gerry Mulligan,Mulligan's Too,Jazz,03:39
+2020-10-29 15:07:25,Count Basie,Bunny,Jazz,07:39
+2020-10-30 11:18:23,Ella Fitzgerald,Taking A Chance On Love,Blues,06:32
+2020-10-30 21:11:19,Dean Martin,Three Wishes,Jazz,02:49
+2020-11-01 08:56:06,Tony Bennett,Stranger In Paradise,Jazz,05:52
+2020-11-01 22:36:49,Dean Martin,Blue Smoke (kohu-auwahi),Jazz,06:38
+2020-11-03 05:16:32,The Andrews Sisters,Winter Wonderland,Jazz,02:07
+2020-11-03 10:43:48,Paul Bley,My Heart,Jazz,07:58
+2020-11-03 10:50:40,Doris Day,I Know That You Know,Jazz,02:47
+2020-11-05 18:50:49,Marian Mcpartland,Yesterdays,Jazz,02:42
+2020-11-06 05:14:44,Pérez Prado,Patricia,Pop,03:43
+2020-11-07 12:57:45,Rosemary Clooney,Snow,Jazz,07:59
+2020-11-09 02:05:30,Dean Martin,Second Chance,Jazz,07:47
+2020-11-10 17:02:46,Dean Martin,Three Wishes,Jazz,02:49
+2020-11-11 15:11:31,Lata Mangeshkar,Paas Nahin Aaiye Haath Na Lagaiye,Pop,08:14
+2020-11-12 14:03:25,Dean Martin,I Feel A Song Comin' On,Jazz,07:39
+2020-11-12 18:40:40,Doris Day,The Christmas Waltz,Jazz,05:23
+2020-11-12 23:17:05,Lata Mangeshkar,Judai Ki Khabar Hoti Agar,Pop,01:52
+2020-11-14 04:55:19,Oscar Peterson,I Was Doing All Right,Jazz,03:42
+2020-11-14 14:44:59,Bing Crosby,Count Your Blessings Instead Of Sheep,Jazz,02:47
+2020-11-14 20:24:30,Lata Mangeshkar,Judai Ki Khabar Hoti Agar,Pop,01:52
+2020-11-16 02:48:38,Dean Martin,There's My Lover,Jazz,05:39
+2020-11-16 07:36:22,Dean Martin,Be Honest With Me,Jazz,05:30
+2020-11-20 01:28:44,Lata Mangeshkar,Judai Ki Khabar Hoti Agar,Pop,01:52
+2020-11-22 09:15:46,Ella Fitzgerald,Thanks For The Memory,Blues,07:41
+2020-11-26 06:55:57,Duke Ellington,Things Ain't What They Used To Be,Jazz,06:09
+2020-11-28 02:41:38,Doris Day,Till We Meet Again,Jazz,06:34
+2020-11-28 15:25:58,Roy Haynes,Hagnes,Jazz,03:09
+2020-11-29 06:29:44,Lata Mangeshkar,Paas Nahin Aaiye Haath Na Lagaiye,Pop,08:14
+2020-11-29 09:15:57,Sarah Vaughan,Embraceable You,Jazz,04:21
+2020-12-03 12:11:48,Dean Martin,There's My Lover,Jazz,05:39
+2020-12-03 13:36:09,Doris Day,Ready; Willing And Able,Jazz,06:52
+2020-12-04 05:05:07,George Shearing,Lullaby Of Birdland,Jazz,05:38
+2020-12-05 12:39:13,Lata Mangeshkar,Main Na Janoon,Pop,06:18
+2020-12-05 14:34:29,Oscar Peterson,I've Got You Under My Skin,Jazz,01:49
+2020-12-08 05:41:12,Doris Day,Anyone Can Fall In Love,Jazz,05:53
+2020-12-09 05:46:11,Stélios Kazantzídis,Finito La Mouzika,Pop,04:40
+2020-12-09 12:37:59,Dean Martin,I Never Had A Chance,Jazz,06:57
+2020-12-09 17:20:44,Noro Morales,Silencio,Jazz,05:07
+2020-12-10 08:12:33,Dean Martin,Absence Makes The Heart Grow Fonder (for Somebody Else),Jazz,02:08
+2020-12-10 08:42:39,Gene Ammons,You Go To My Head,Jazz,02:47
+2020-12-10 13:14:26,Josh White,Call Me Darling,Blues,06:13
+2020-12-11 00:39:44,Count Basie,Sure Thing,Jazz,05:18
+2020-12-11 21:44:43,Dean Martin,All I Have To Give You Is My Love,Jazz,04:49
+2020-12-12 12:56:05,Ella Fitzgerald,Taking A Chance On Love,Blues,06:32
+2020-12-13 08:48:29,Dean Martin,Be Honest With Me,Jazz,05:30
+2020-12-13 20:38:44,Harry Belafonte,Mark Twain,Pop,06:48
+2020-12-13 22:31:49,Sarah Vaughan,Jim,Jazz,03:46
+2020-12-15 04:46:54,Dean Martin,I Don't Care If The Sun Don't Shine,Jazz,04:32
+2020-12-15 13:37:46,Dean Martin,Wham! Bam! Thank You; Ma'am!,Jazz,03:32
+2020-12-15 22:36:33,Count Basie,Bunny,Jazz,07:39
+2020-12-17 10:41:53,Dean Martin,Solitaire,Jazz,06:54
+2020-12-18 22:50:16,The Andrews Sisters,Winter Wonderland,Jazz,02:07
+2020-12-20 07:44:26,Oscar Peterson,Time On My Hands,Jazz,02:59
+2020-12-22 15:30:23,Dean Martin,Won't You Surrender,Jazz,02:00
+2020-12-22 16:46:06,Margaret Whiting,A Tree In The Meadow,Jazz,07:56
+2020-12-22 21:24:33,Tony Bennett,Winter Wonderland,Jazz,05:40
+2020-12-23 13:05:15,Dean Martin,There's My Lover,Jazz,05:39
+2020-12-24 06:57:25,Louis Prima,One Mint Julep,Blues,04:41
+2020-12-24 07:43:37,Dean Martin,That's What I Like,Jazz,02:33
+2020-12-25 20:38:56,Ella Fitzgerald,But Not For Me,Blues,07:18
+2020-12-26 00:59:17,Louis Prima,The Bigger The Figure (with Keely Smith),Blues,01:30
+2020-12-27 04:16:59,Tony Scott,It's You Or No One,Jazz,06:59
+2020-12-27 04:28:19,Ahmad Jamal,Something To Remember You By,Jazz,06:07
+2020-12-27 23:49:16,Ghantasala,Avanee Nee Pathi,Pop,07:34
+2020-12-29 20:37:03,Tony Scott,It's You Or No One,Jazz,06:59
+2020-12-29 22:26:29,Odetta,Santy Anno,Blues,02:27
+2020-12-31 01:05:09,Dean Martin,There's My Lover,Jazz,05:39
+2021-01-01 10:44:21,Pérez Prado,Patricia,Pop,03:43
+2021-01-01 17:51:06,George Shearing,Conception,Jazz,01:31
+2021-01-01 21:57:00,Rosemary Clooney,Bad News,Jazz,07:55
+2021-01-02 16:45:47,Louis Armstrong,Aunt Hagar's Blues,Jazz,02:19
+2021-01-02 17:20:41,Doris Day,Till We Meet Again,Jazz,06:34
+2021-01-04 11:14:22,Dean Martin,Love Me; Love Me,Jazz,02:22
+2021-01-04 12:19:45,Thelonious Monk,Smoke Gets In Your Eyes,Jazz,05:07
+2021-01-04 19:57:15,Dean Martin,I'm Yours,Jazz,05:14
+2021-01-05 21:22:14,Harry Belafonte,Mark Twain,Pop,06:48
+2021-01-06 02:47:40,Sarah Vaughan,Lullaby Of Birdland,Jazz,01:33
+2021-01-06 04:53:13,Dean Martin,Wham! Bam! Thank You; Ma'am!,Jazz,03:32
+2021-01-08 08:27:52,Ella Fitzgerald,You'll Have To Swing It (mr. Paganini),Blues,07:38
+2021-01-08 09:52:06,Duke Ellington,Solitude,Jazz,06:09
+2021-01-08 14:35:40,Chet Baker,What'll I Do,Jazz,04:44
+2021-01-09 07:18:26,Piney Brown,How About Rocking With Me,Blues,06:19
+2021-01-10 09:37:07,Dean Martin,Absence Makes The Heart Grow Fonder (for Somebody Else),Jazz,02:08
+2021-01-10 10:13:35,Buck Clayton,Jayhawk,Jazz,07:24
+2021-01-10 23:56:46,Dean Martin,Until,Jazz,01:52
+2021-01-11 01:28:04,Dean Martin,Wham! Bam! Thank You; Ma'am!,Jazz,03:32
+2021-01-11 21:07:51,Dean Martin,There's My Lover,Jazz,05:39
+2021-01-12 15:16:50,Doris Day,Soft As The Starlight,Jazz,03:33
+2021-01-14 14:50:04,Noro Morales,Silencio,Jazz,05:07
+2021-01-15 17:26:52,Chet Baker,Love Me Or Leave Me,Jazz,03:15
+2021-01-16 23:10:27,Dean Martin,Solitaire,Jazz,06:54
+2021-01-17 00:37:01,Duke Ellington,Things Ain't What They Used To Be,Jazz,06:09
+2021-01-17 11:32:37,Thelonious Monk,Let's Call This,Jazz,07:57
+2021-01-18 23:16:39,George Shearing,September In The Rain,Jazz,07:20
+2021-01-19 00:46:21,Judy Garland,Here's What I'm Here For,Jazz,01:42
+2021-01-19 08:31:04,Los Hermanos Arriagada,Poema,Pop,07:36
+2021-01-19 11:54:30,Dean Martin,If I Should Love Again,Jazz,05:02
+2021-01-21 08:35:27,Erroll Garner,I Don't Know Why (i Just Do),Jazz,04:34
+2021-01-21 20:21:46,Los Hermanos Arriagada,Poema,Pop,07:36
+2021-01-23 12:24:22,Thelonious Monk,Smoke Gets In Your Eyes,Jazz,05:07
+2021-01-25 16:02:36,Johnnie Ray,Cry,Pop,04:59
+2021-01-27 13:43:20,Judy Garland,Here's What I'm Here For,Jazz,01:42
+2021-01-27 15:28:20,Asha Bhosle,Kotha Mukunda,Pop,03:27
+2021-01-28 03:58:37,Odetta,No More Cane On The Brazo,Blues,07:05
+2021-01-28 14:25:29,Thelonious Monk,Monk's Mood,Jazz,06:41
+2021-01-28 16:05:16,Dean Martin,I'm In Love With You,Jazz,01:41
+2021-01-30 16:59:47,Sonny Rollins,I Know,Jazz,03:28
+2021-01-31 03:37:11,Dean Martin,I Never Had A Chance,Jazz,06:57
+2021-01-31 05:06:32,Louis Armstrong,Loveless Love,Jazz,06:14
+2021-01-31 13:58:29,Asha Bhosle,Kotha Mukunda,Pop,03:27
+2021-01-31 14:03:48,Thelonious Monk,Monk's Mood,Jazz,06:41
+2021-01-31 22:12:52,Dean Martin,That's All I Want From You,Jazz,08:00
+2021-02-01 06:04:09,Dean Martin,Moments Like This,Jazz,02:51
+2021-02-06 05:57:44,Jonah Jones,You're The Cream In My Coffee,Pop,05:34
+2021-02-07 19:38:08,Ella Fitzgerald,I've Got A Crush On You,Blues,03:36
+2021-02-08 06:18:16,Louis Armstrong,Long Gone (from The Bowlin' Green),Jazz,05:00
+2021-02-08 09:00:19,Les Paul,I'm Sitting On Top Of The World,Pop,05:34
+2021-02-09 13:21:11,Dean Martin,Bet-i-cha,Jazz,03:57
+2021-02-09 19:28:50,Lata Mangeshkar,Judai Ki Khabar Hoti Agar,Pop,01:52
+2021-02-10 04:48:03,Rosemary Clooney,Count Your Blessings Instead Of Sheep,Jazz,07:34
+2021-02-10 08:37:01,A. M. Rajah,Gopiparivrito,Pop,06:45
+2021-02-10 22:27:14,Charlie Parker,Night And Day,Jazz,05:25
+2021-02-11 17:30:11,Giorgos Papadopoulos,Apopse Eida Oneiro,Pop,07:12
+2021-02-12 23:27:40,Louis Prima,Basta,Blues,06:24
+2021-02-14 07:48:29,Doris Day,You're Getting To Be A Habit With Me,Jazz,01:59
+2021-02-15 00:20:33,Freestyle,Opm Medley: When I Met You,Pop,07:13
+2021-02-15 02:09:06,Doris Day,Anyone Can Fall In Love,Jazz,05:53
+2021-02-15 15:26:20,Tony Bennett,The Boulevard Of Broken Dreams,Jazz,07:52
+2021-02-16 06:26:59,Ella Fitzgerald,Taking A Chance On Love,Blues,06:32
+2021-02-16 13:20:03,Nat King Cole Trio,Lost April,Jazz,02:56
+2021-02-16 19:24:43,Bing Crosby,Santa Claus Is Comin' To Town,Jazz,07:40
+2021-02-17 23:54:44,Louis Prima,The Bigger The Figure (with Keely Smith),Blues,01:30
+2021-02-18 19:49:36,Dave Brubeck,Out Of Nowhere,Jazz,04:40
+2021-02-18 23:50:24,Talat Mahmood,Ansoo To Nahin Hai Ankhon Men,Pop,06:42
+2021-02-19 18:06:46,Dean Martin,Wham! Bam! Thank You; Ma'am!,Jazz,03:32
+2021-02-20 04:48:16,Dean Martin,Love Me; Love Me,Jazz,02:22
+2021-02-21 01:41:01,Dean Martin,Carolina Moon,Jazz,04:45
+2021-02-21 13:32:29,Mukesh,Hum Tujhse Mohabbat Kar Ke,Pop,03:56
+2021-02-21 18:50:45,Dean Martin,You're The Right One,Jazz,03:58
+2021-02-22 02:15:34,Ella Fitzgerald,It Might As Well Be Spring,Blues,01:41
+2021-02-22 18:21:36,Lata Mangeshkar,Le Chal Ri Nindiya Le Chal Hamen,Pop,03:00
+2021-02-23 12:09:49,Dizzy Gillespie,Contraste,Jazz,03:33
+2021-02-24 15:28:21,Thelonious Monk,Monk's Mood,Jazz,06:41
+2021-02-26 01:36:02,Doris Day,Hold Me In Your Arms,Jazz,02:03
+2021-02-26 03:55:55,Dean Martin,Hominy Grits,Jazz,03:34
+2021-02-26 16:22:46,Marian Mcpartland,Yesterdays,Jazz,02:42
+2021-02-27 05:10:05,Count Basie,Sure Thing,Jazz,05:18
+2021-02-27 09:45:09,T. M. Soundararajan,Ethanai Periya,Pop,07:10
+2021-02-28 20:45:19,Tony Bennett,Stranger In Paradise,Jazz,05:52
+2021-03-01 22:35:39,Doris Day,Love Ya,Jazz,03:23
+2021-03-03 07:44:41,Thelonious Monk,Let's Call This,Jazz,07:57
+2021-03-03 21:36:45,Dean Martin,Beside You,Jazz,02:45
+2021-03-04 14:52:10,George Shearing,Lullaby Of Birdland,Jazz,05:38
+2021-03-04 15:05:59,Louis Armstrong,Aunt Hagar's Blues,Jazz,02:19
+2021-03-05 11:25:49,Harry Belafonte,Mark Twain,Pop,06:48
+2021-03-05 12:05:11,Judy Garland,Lose That Long Face,Jazz,02:06
+2021-03-07 00:58:33,Gene Ammons,You Go To My Head,Jazz,02:47
+2021-03-09 09:01:14,Dean Martin,Moments Like This,Jazz,02:51
+2021-03-09 11:20:09,Dean Martin,Muskrat Ramble,Jazz,05:21
+2021-03-09 19:12:13,The Andrews Sisters,Winter Wonderland,Jazz,02:07
+2021-03-10 15:11:05,Les Paul,The Carioca,Pop,04:06
+2021-03-12 13:38:36,Ghantasala,Avanee Nee Pathi,Pop,07:34
+2021-03-12 19:52:00,Erroll Garner,Lullaby Of Birdland,Jazz,01:33
+2021-03-13 03:55:19,Judy Garland,Here's What I'm Here For,Jazz,01:42
+2021-03-13 17:58:43,Billie Holiday,Yesterdays,Blues,04:38
+2021-03-14 02:36:06,Oscar Peterson,Time On My Hands,Jazz,02:59
+2021-03-14 10:42:19,Oscar Peterson,This Can't Be Love,Jazz,03:55
+2021-03-14 16:07:43,Dean Martin,Hominy Grits,Jazz,03:34
+2021-03-14 23:05:45,Dizzy Gillespie,Swing Low...sweet Cadillac,Jazz,07:12
+2021-03-15 01:29:28,George Shearing,Sweet And Lovely,Jazz,01:55
+2021-03-15 04:16:40,Doris Day,With A Song In My Heart,Jazz,07:51
+2021-03-16 00:38:58,The Ravens,Gotta Find My Baby,Blues,02:54
+2021-03-16 08:44:34,Sarah Vaughan,Prelude To A Kiss,Jazz,06:51
+2021-03-16 15:26:49,Tony Scott,It's You Or No One,Jazz,06:59
+2021-03-17 14:12:42,The Chordettes,Carolina Moon,Pop,03:04
+2021-03-17 20:11:33,Gerry Mulligan Quartet,Love Me Or Leave Me,Jazz,07:57
+2021-03-19 00:28:04,Dean Martin,There's My Lover,Jazz,05:39
+2021-03-19 04:17:59,Margaret Whiting,A Tree In The Meadow,Jazz,07:56
+2021-03-19 21:33:02,Anita O'day,Fine And Dandy,Jazz,02:04
+2021-03-20 01:34:14,Sarah Vaughan,Jim,Jazz,03:46
+2021-03-20 14:46:56,Ella Fitzgerald,I'm Glad There Is You,Blues,07:42
+2021-03-23 01:55:21,Doris Day,Hold Me In Your Arms,Jazz,02:03
+2021-03-26 15:25:56,Oscar Peterson,You Go To My Head,Jazz,02:44
+2021-03-27 17:03:31,Margaret Whiting,It Might As Well Be Spring,Jazz,01:37
+2021-03-27 18:13:53,Roy Haynes,Hagnes,Jazz,03:09
+2021-03-29 21:46:54,Marian Mcpartland,Yesterdays,Jazz,02:42
+2021-03-31 07:28:21,Doris Day,With A Song In My Heart,Jazz,07:51
+2021-04-01 16:05:27,Louis Armstrong,Long Gone (from The Bowlin' Green),Jazz,05:00
+2021-04-01 21:28:41,Sarah Vaughan,Prelude To A Kiss,Jazz,06:51
+2021-04-02 04:36:05,Thelonious Monk,Let's Call This,Jazz,07:57
+2021-04-02 04:40:40,Dizzy Gillespie,Love Me; Pretty Baby,Jazz,04:43
+2021-04-02 09:52:26,Lata Mangeshkar,Sitaron Ki Mehfil Saji,Pop,07:41
+2021-04-02 17:32:20,Judy Garland,The Man That Got Away,Jazz,02:18
+2021-04-03 09:30:46,Buck Clayton,Jayhawk,Jazz,07:24
+2021-04-03 15:12:21,Dean Martin,Muskrat Ramble,Jazz,05:21
+2021-04-04 01:48:00,Ella Fitzgerald,I've Got A Crush On You,Blues,03:36
+2021-04-06 16:42:40,Judy Garland,The Man That Got Away,Jazz,02:18
+2021-04-07 18:15:59,Dizzy Gillespie,Contraste,Jazz,03:33
+2021-04-07 20:01:04,T. M. Soundararajan,Ethanai Periya,Pop,07:10
+2021-04-08 00:23:35,Bing Crosby,White Christmas,Jazz,05:20
+2021-04-10 01:57:47,Tony Bennett,Cold Cold Heart,Jazz,08:00
+2021-04-10 06:42:05,Judy Garland,Swanee,Jazz,01:49
+2021-04-10 11:13:55,Sven-bertil Taube,Viljen I Veta (would You Like To Know?),Pop,03:02
+2021-04-11 05:16:34,Freestyle,Opm Medley: When I Met You,Pop,07:13
+2021-04-11 07:48:39,Mary Lou Williams,Twilight,Jazz,01:31
+2021-04-12 07:11:09,Dizzy Gillespie,Jungla,Jazz,03:53
+2021-04-14 05:08:41,Oscar Peterson,You Go To My Head,Jazz,02:44
+2021-04-14 09:55:38,Lata Mangeshkar,Chupke Chupke (from ''paying Guest''),Pop,03:41
+2021-04-14 13:27:31,Doris Day,Darn That Dream,Jazz,04:48
+2021-04-15 07:26:30,Doris Day,Hold Me In Your Arms,Jazz,02:03
+2021-04-15 14:07:02,Doris Day,April In Paris,Jazz,06:13
+2021-04-15 22:44:48,Dean Martin,You're The Right One,Jazz,03:58
+2021-04-16 03:09:18,Dean Martin,Don't You Remember?,Jazz,02:13
+2021-04-16 22:44:41,Mukesh,Mohabbat Bhi Jhoothi,Pop,02:40
+2021-04-17 15:01:50,Dean Martin,I Know A Dream When I See One,Jazz,03:31
+2021-04-17 23:47:37,Andy Williams,It's The Most Wonderful Time Of The Year,Pop,01:49
+2021-04-19 10:06:35,Dean Martin,Bet-i-cha,Jazz,03:57
+2021-04-20 12:46:16,Ella Fitzgerald,Soon,Blues,08:15
+2021-04-20 15:20:44,Oscar Peterson,This Can't Be Love,Jazz,03:55
+2021-04-20 21:20:30,Vic Damone,An Affair To Remember,Jazz,04:27
+2021-04-22 11:39:23,Dean Martin,I Want You,Jazz,04:04
+2021-04-22 18:41:58,Oscar Peterson,I've Got You Under My Skin,Jazz,01:49
+2021-04-24 00:39:46,Sarah Vaughan,You Hit The Spot,Jazz,07:51
+2021-04-24 17:17:05,Josh White,Call Me Darling,Blues,06:13
+2021-04-25 05:36:06,George Shearing,So Rare,Jazz,04:26
+2021-04-26 13:00:22,Doris Day,You're Getting To Be A Habit With Me,Jazz,01:59
+2021-04-26 19:21:25,Duke Ellington,Things Ain't What They Used To Be,Jazz,06:09
+2021-04-26 22:42:47,Chet Baker,There Will Never Be Another You,Jazz,03:18
+2021-04-27 05:04:00,Stan Kenton,Yesterdays,Jazz,04:00
+2021-04-27 21:34:48,Chet Baker,It's You Or No One,Jazz,05:01
+2021-04-28 14:09:21,Louis Armstrong,Loveless Love,Jazz,06:14
+2021-04-28 16:24:10,Ella Fitzgerald,Taking A Chance On Love,Blues,06:32
+2021-04-30 17:43:00,Frankie Laine,I Believe,Pop,03:32
+2021-05-02 01:39:07,Mohammed Rafi,Jahan Men Log Sachhe Ashikon Ko,Pop,03:07
+2021-05-05 14:33:05,Louis Armstrong,Long Gone (from The Bowlin' Green),Jazz,05:00
+2021-05-05 23:44:23,Count Basie,Blues Go Away!,Jazz,08:16
+2021-05-06 20:09:04,Doris Day,With A Song In My Heart,Jazz,07:51
+2021-05-07 11:09:05,Louis Prima,One Mint Julep,Blues,04:41
+2021-05-07 17:10:35,Oscar Peterson,What's New,Jazz,06:30
+2021-05-07 21:37:09,Lata Mangeshkar,Main Na Janoon,Pop,06:18
+2021-05-09 15:07:53,Sarah Vaughan,September Song,Jazz,03:08
+2021-05-10 14:43:28,Ella Fitzgerald,But Not For Me,Blues,07:18
+2021-05-10 15:41:47,Tony Scott,It's You Or No One,Jazz,06:59
+2021-05-10 17:15:42,Jonah Jones,You're The Cream In My Coffee,Pop,05:34
+2021-05-11 07:09:15,Louis Armstrong,Long Gone (from The Bowlin' Green),Jazz,05:00
+2021-05-11 16:47:44,Dean Martin,I'm Yours,Jazz,05:14
+2021-05-14 03:42:53,Dean Martin,You're The Right One,Jazz,03:58
+2021-05-14 05:23:21,Chet Baker,It's You Or No One,Jazz,05:01
+2021-05-14 08:34:24,Margaret Whiting,A Tree In The Meadow,Jazz,07:56
+2021-05-14 20:54:28,Doris Day,Darn That Dream,Jazz,04:48
+2021-05-15 04:33:03,Rosemary Clooney,Mandy,Jazz,07:02
+2021-05-15 15:26:05,Dean Martin,Under The Bridges Of Paris,Jazz,01:37
+2021-05-16 07:10:41,Paul Bley,My Heart,Jazz,07:58
+2021-05-20 13:16:26,Dean Martin,That's All I Want From You,Jazz,08:00
+2021-05-20 19:05:45,Tony Bennett,The Boulevard Of Broken Dreams,Jazz,07:52
+2021-05-22 15:10:00,Dean Martin,Bet-i-cha,Jazz,03:57
+2021-05-24 11:26:47,Oscar Peterson,You Go To My Head,Jazz,02:44
+2021-05-25 07:21:05,Dean Martin,One More Time,Jazz,07:32
+2021-05-25 08:07:28,Miles Davis,Indian Summer,Jazz,07:13
+2021-05-25 22:44:03,Bing Crosby,White Christmas,Jazz,05:20
+2021-05-26 06:35:58,Paul Bley,My Heart,Jazz,07:58
+2021-05-28 01:06:56,Duke Ellington,Solitude,Jazz,06:09
+2021-05-28 14:27:30,Duke Ellington,Things Ain't What They Used To Be,Jazz,06:09
+2021-05-28 22:21:04,Les Paul,Dark Eyes,Pop,05:07
+2021-05-29 03:29:05,Count Basie,Why Not,Jazz,08:01
+2021-05-29 11:03:57,Thelonious Monk,Monk's Mood,Jazz,06:41
+2021-05-30 04:38:56,Peggy Lee,Love; You Didn't Do Right By Me,Jazz,02:10
+2021-05-30 21:14:17,Dean Martin,Wham! Bam! Thank You; Ma'am!,Jazz,03:32
+2021-05-31 10:27:25,Doris Day,You're Getting To Be A Habit With Me,Jazz,01:59
+2021-06-01 11:19:52,Dean Martin,Kiss,Jazz,02:04
+2021-06-02 04:57:59,Les Paul,Chicken Reel,Pop,06:46
+2021-06-02 15:30:06,Judy Garland,Here's What I'm Here For,Jazz,01:42
+2021-06-04 04:41:26,A. M. Rajah,Gopiparivrito,Pop,06:45
+2021-06-04 10:58:35,Count Basie,Why Not,Jazz,08:01
+2021-06-04 15:54:15,Dean Martin,Absence Makes The Heart Grow Fonder (for Somebody Else),Jazz,02:08
+2021-06-05 02:13:32,Dean Martin,I Ran All The Way Home,Jazz,06:20
+2021-06-05 08:23:21,Oscar Peterson,East Of The Sun (and West Of The Moon),Jazz,02:01
+2021-06-05 23:03:02,Tony Scott,It's You Or No One,Jazz,06:59
+2021-06-07 04:20:49,Piney Brown,How About Rocking With Me,Blues,06:19
+2021-06-07 22:11:02,Ella Fitzgerald,Soon,Blues,08:15
+2021-06-08 01:07:52,Bing Crosby,White Christmas,Jazz,05:20
+2021-06-08 09:55:36,Thelonious Monk,Smoke Gets In Your Eyes,Jazz,05:07
+2021-06-08 13:17:29,Dean Martin,Oh Marie,Jazz,06:00
+2021-06-08 17:29:02,Ella Fitzgerald,What Is There To Say?,Blues,07:04
+2021-06-10 06:37:24,George Shearing,Sweet And Lovely,Jazz,01:55
+2021-06-10 22:43:27,Dean Martin,I'll Always Love You (day After Day),Jazz,01:52
+2021-06-11 08:12:30,Giorgos Papadopoulos,Apopse Eida Oneiro,Pop,07:12
+2021-06-11 14:48:58,Bing Crosby,White Christmas,Jazz,05:20
+2021-06-12 20:23:06,Doris Day,Anyone Can Fall In Love,Jazz,05:53
+2021-06-13 21:19:55,Billie Holiday,Yesterdays,Blues,04:38
+2021-06-16 16:43:21,Miles Davis,Indian Summer,Jazz,07:13
+2021-06-17 20:08:49,Gerry Mulligan,Mulligan's Too,Jazz,03:39
+2021-06-18 00:50:37,Les Paul,Chicken Reel,Pop,06:46
+2021-06-21 08:35:46,Sarah Vaughan,I'm Glad There Is You,Jazz,01:45
+2021-06-21 13:13:27,Bing Crosby,White Christmas,Jazz,05:20
+2021-06-23 14:05:20,Bing Crosby,White Christmas,Jazz,05:20
+2021-06-23 18:38:37,Stélios Kazantzídis,Finito La Mouzika,Pop,04:40
+2021-06-24 17:42:26,Dean Martin,Vieni Su (say You Love Me; Too),Jazz,06:25
+2021-06-25 11:38:53,Tony Bennett,I Wanna Be Loved,Jazz,03:35
+2021-06-25 12:45:48,Dizzy Gillespie,Swing Low...sweet Cadillac,Jazz,07:12
+2021-06-26 16:24:15,Billie Holiday,Remember,Blues,06:33
+2021-06-27 05:40:42,Dean Martin,Until,Jazz,01:52
+2021-06-29 03:48:28,Dean Martin,That Certain Party,Jazz,04:27
+2021-06-30 20:37:10,Nat King Cole Trio,A Portrait Of Jennie,Jazz,04:20
+2021-07-01 22:51:28,Ella Fitzgerald,What Is There To Say?,Blues,07:04
+2021-07-03 00:08:35,Nat King Cole Trio,What'll I Do?,Jazz,04:02
+2021-07-03 07:22:00,Dean Martin,Moments Like This,Jazz,02:51
+2021-07-04 00:26:06,Chet Baker,Love Me Or Leave Me,Jazz,03:15
+2021-07-04 02:40:07,Thelonious Monk,Ask Me Now,Jazz,03:18
+2021-07-04 14:38:51,Dean Martin,Three Wishes,Jazz,02:49
+2021-07-04 21:53:25,Billie Holiday,Yesterdays,Blues,04:38
+2021-07-05 15:28:48,Freestyle,Opm Medley: When I Met You,Pop,07:13
+2021-07-07 14:12:59,Doris Day,Anyone Can Fall In Love,Jazz,05:53
+2021-07-07 20:37:45,Doris Day,Till We Meet Again,Jazz,06:34
+2021-07-08 11:45:30,Louis Armstrong,The Memphis Blues (or Mister Crump),Jazz,03:46
+2021-07-08 21:06:01,Paul Bley,My Heart,Jazz,07:58
+2021-07-09 11:59:10,Lata Mangeshkar,Le Chal Ri Nindiya Le Chal Hamen,Pop,03:00
+2021-07-11 09:53:40,Judy Garland,Here's What I'm Here For,Jazz,01:42
+2021-07-12 04:32:49,Louis Armstrong,Aunt Hagar's Blues,Jazz,02:19
+2021-07-12 09:09:50,Dean Martin,Sailors' Polka,Jazz,04:05
+2021-07-13 20:10:31,Oscar Peterson,Surrey With The Fringe On Top,Jazz,02:14
+2021-07-14 07:43:05,The Chordettes,Carolina Moon,Pop,03:04
+2021-07-14 10:10:08,Dean Martin,I Feel A Song Comin' On,Jazz,07:39
+2021-07-14 22:04:48,Lata Mangeshkar,Le Chal Ri Nindiya Le Chal Hamen,Pop,03:00
+2021-07-17 11:53:07,Sarah Vaughan,You Hit The Spot,Jazz,07:51
+2021-07-17 15:47:17,Tony Bennett,Winter Wonderland,Jazz,05:40
+2021-07-19 04:30:58,Mohammed Rafi,Jahan Men Log Sachhe Ashikon Ko,Pop,03:07
+2021-07-19 05:21:32,Dean Martin,I Want You,Jazz,04:04
+2021-07-20 04:42:48,Dean Martin,I Feel A Song Comin' On,Jazz,07:39
+2021-07-20 15:49:17,Johnnie Ray,Cry,Pop,04:59
+2021-07-22 08:04:57,Dean Martin,I Don't Care If The Sun Don't Shine,Jazz,04:32
+2021-07-22 09:12:33,Dizzy Gillespie,Contraste,Jazz,03:33
+2021-07-23 06:55:04,Gene Ammons,It's The Talk Of The Town,Jazz,06:00
+2021-07-23 11:50:00,Liva Weel,Drømmer Man Om Den; Vågner..,Pop,01:52
+2021-07-24 09:58:21,Judy Garland,It's A New World,Jazz,01:55
+2021-07-24 10:57:46,Doris Day,The Christmas Waltz,Jazz,05:23
+2021-07-24 11:20:32,Dean Martin,Rock-a-bye Your Baby With A Dixie Melody,Jazz,03:23
+2021-07-24 20:32:33,Margaret Whiting,It Might As Well Be Spring,Jazz,01:37
+2021-07-26 15:39:31,Dean Martin,Won't You Surrender,Jazz,02:00
+2021-07-28 01:54:48,Oscar Peterson,East Of The Sun (and West Of The Moon),Jazz,02:01
+2021-07-28 17:46:31,Dean Martin,Love Me; Love Me,Jazz,02:22
+2021-07-29 01:47:57,Gene Ammons,It's The Talk Of The Town,Jazz,06:00
+2021-07-30 07:37:37,Johnny Mathis,It's Not For Me To Say,Pop,06:15
+2021-08-01 15:21:15,Marian Mcpartland,Love Is Here To Stay,Jazz,02:43
+2021-08-01 17:49:42,Dean Martin,Sailors' Polka,Jazz,04:05
+2021-08-02 05:15:44,The Chordettes,Carolina Moon,Pop,03:04
+2021-08-02 11:37:41,Doris Day,Christmas Story,Jazz,04:10
+2021-08-02 17:20:16,Sarah Vaughan,Prelude To A Kiss,Jazz,06:51
+2021-08-02 19:50:30,Duke Ellington,Solitude,Jazz,06:09
+2021-08-02 20:09:24,Oscar Peterson,In A Mellow Tone,Jazz,05:55
+2021-08-05 06:22:04,Dean Martin,Rock-a-bye Your Baby With A Dixie Melody,Jazz,03:23
+2021-08-05 22:49:32,Nat King Cole Trio,What'll I Do?,Jazz,04:02
+2021-08-06 01:03:32,The Ravens,You're Gonna Lose Your Gal,Blues,03:43
+2021-08-07 12:00:30,Dean Martin,Carolina Moon,Jazz,04:45
+2021-08-10 06:58:27,Sonny Rollins,I Know,Jazz,03:28
+2021-08-11 06:03:01,Tony Scott,It's You Or No One,Jazz,06:59
+2021-08-11 16:07:37,Doris Day,I'll Forget You,Jazz,05:34
+2021-08-12 07:42:54,Dean Martin,I Feel A Song Comin' On,Jazz,07:39
+2021-08-14 05:15:44,Piney Brown,How About Rocking With Me,Blues,06:19
+2021-08-14 16:24:45,Doris Day,With A Song In My Heart,Jazz,07:51
+2021-08-14 16:41:57,Chet Baker,What'll I Do,Jazz,04:44
+2021-08-15 01:15:57,Dean Martin,Absence Makes The Heart Grow Fonder (for Somebody Else),Jazz,02:08
+2021-08-15 10:56:51,Lata Mangeshkar,Judai Ki Khabar Hoti Agar,Pop,01:52
+2021-08-16 05:18:20,Doris Day,Moonlight Bay,Jazz,02:23
+2021-08-16 13:27:30,Dean Martin,Kiss,Jazz,02:04
+2021-08-17 18:47:50,Thelonious Monk,Monk's Mood,Jazz,06:41
+2021-08-19 03:48:42,Dean Martin,I Ran All The Way Home,Jazz,06:20
+2021-08-19 12:51:03,Billie Holiday,Remember,Blues,06:33
+2021-08-20 19:40:05,Bud Powell,Yesterdays,Jazz,07:23
+2021-08-22 17:26:02,Doris Day,Hold Me In Your Arms,Jazz,02:03
+2021-08-24 00:02:22,Dean Martin,Vieni Su (say You Love Me; Too),Jazz,06:25
+2021-08-24 23:56:30,Ella Fitzgerald,Soon,Blues,08:15
+2021-08-25 17:49:27,Judy Garland,Swanee,Jazz,01:49
+2021-08-26 05:18:28,Bing Crosby,Count Your Blessings Instead Of Sheep,Jazz,02:47
+2021-08-27 15:07:58,Margaret Whiting,A Tree In The Meadow,Jazz,07:56
+2021-08-30 02:07:03,Dean Martin,There's My Lover,Jazz,05:39
+2021-08-30 14:26:09,Pérez Prado,Patricia,Pop,03:43
+2021-08-31 00:15:45,Thelonious Monk,Monk's Mood,Jazz,06:41
+2021-08-31 02:00:01,Bing Crosby,Santa Claus Is Comin' To Town,Jazz,07:40
+2021-08-31 02:07:46,Les Paul,Chicken Reel,Pop,06:46
+2021-08-31 02:39:35,Oscar Peterson,You Go To My Head,Jazz,02:44
+2021-09-01 10:50:09,Giorgos Papadopoulos,Apopse Eida Oneiro,Pop,07:12
+2021-09-01 11:37:29,Dean Martin,Muskrat Ramble,Jazz,05:21
+2021-09-05 03:47:14,Doris Day,Hold Me In Your Arms,Jazz,02:03
+2021-09-05 05:18:42,Dean Martin,Love Me; Love Me,Jazz,02:22
+2021-09-06 11:39:39,Doris Day,If You Were The Only Girl,Jazz,07:38
+2021-09-06 18:05:27,Dean Martin,'til I Find You,Jazz,02:09
+2021-09-07 15:11:03,Dean Martin,Carolina In The Morning,Jazz,03:20
+2021-09-09 03:35:11,Duke Ellington,Things Ain't What They Used To Be,Jazz,06:09
+2021-09-09 23:16:03,The Ravens,Gotta Find My Baby,Blues,02:54
+2021-09-10 12:22:19,Odetta,No More Cane On The Brazo,Blues,07:05
+2021-09-10 17:57:44,Ella Fitzgerald,You Leave Me Breathless,Blues,05:02
+2021-09-10 22:49:06,Ella Fitzgerald,Lover; Come Back To Me,Blues,06:32
+2021-09-12 09:57:30,Sarah Vaughan,Prelude To A Kiss,Jazz,06:51
+2021-09-12 12:26:53,George Shearing,Conception,Jazz,01:31
+2021-09-12 16:33:32,Nat King Cole Trio,A Portrait Of Jennie,Jazz,04:20
+2021-09-14 05:16:45,Rosemary Clooney,Snow,Jazz,07:59
+2021-09-15 07:20:04,Ghantasala,Kanugona Galano,Pop,03:36
+2021-09-16 11:22:45,Ella Fitzgerald,It Might As Well Be Spring,Blues,01:41
+2021-09-17 08:53:08,Doris Day,Darn That Dream,Jazz,04:48
+2021-09-17 09:34:59,Count Basie,Blues Go Away!,Jazz,08:16
+2021-09-17 10:32:31,Ella Fitzgerald,It Might As Well Be Spring,Blues,01:41
+2021-09-17 22:05:46,Ghantasala,Thunintha Pin,Pop,08:11
+2021-09-17 23:11:22,Oscar Peterson,Surrey With The Fringe On Top,Jazz,02:14
+2021-09-18 21:43:09,Oscar Peterson,In A Mellow Tone,Jazz,05:55
+2021-09-19 06:39:18,Ella Fitzgerald,What Is There To Say?,Blues,07:04
+2021-09-20 16:59:17,Dean Martin,Be Honest With Me,Jazz,05:30
+2021-09-21 09:12:44,Paul Bley,My Heart,Jazz,07:58
+2021-09-21 15:25:27,Count Basie,Why Not,Jazz,08:01
+2021-09-22 22:56:02,Judy Garland,It's A New World,Jazz,01:55
+2021-09-23 05:02:31,Dean Martin,Second Chance,Jazz,07:47
+2021-09-23 14:26:20,Oscar Peterson,How High The Moon,Jazz,03:05
+2021-09-24 10:06:45,Dean Martin,As You Are,Jazz,04:19
+2021-09-25 13:18:14,Gerry Mulligan Quartet,Love Me Or Leave Me,Jazz,07:57
+2021-09-25 18:26:24,George Shearing,Pick Yourself Up,Jazz,05:16
+2021-09-25 22:32:45,Judy Garland,The Man That Got Away,Jazz,02:18
+2021-09-27 03:10:28,Odetta,No More Cane On The Brazo,Blues,07:05
+2021-09-27 07:22:34,Marian Mcpartland,Love Is Here To Stay,Jazz,02:43
+2021-09-27 19:42:15,Louis Armstrong,The Memphis Blues (or Mister Crump),Jazz,03:46
+2021-09-29 04:43:26,Jonah Jones,You're The Cream In My Coffee,Pop,05:34
+2021-09-29 06:03:41,Doris Day,You're Getting To Be A Habit With Me,Jazz,01:59
+2021-09-29 12:18:12,Rosemary Clooney,Snow,Jazz,07:59
+2021-09-30 01:56:33,Sarah Vaughan,Embraceable You,Jazz,04:21
+2021-10-03 00:24:33,Talat Mahmood,Ansoo To Nahin Hai Ankhon Men,Pop,06:42
+2021-10-03 09:20:48,Asha Bhosle,Chahe Kitna Mujhe Tum Bulao Ji,Pop,03:01
+2021-10-03 12:26:42,Les Paul,Blue Skies,Pop,06:23
+2021-10-03 16:32:04,The Chordettes,Carolina Moon,Pop,03:04
+2021-10-03 19:08:20,Dean Martin,Three Wishes,Jazz,02:49
+2021-10-03 23:46:54,Dean Martin,If,Jazz,02:03
+2021-10-04 05:21:50,Andy Williams,It's The Most Wonderful Time Of The Year,Pop,01:49
+2021-10-04 14:39:19,Dean Martin,Love Me; Love Me,Jazz,02:22
+2021-10-05 14:35:58,Rosemary Clooney,Count Your Blessings Instead Of Sheep,Jazz,07:34
+2021-10-05 18:59:00,Margaret Whiting,It Might As Well Be Spring,Jazz,01:37
+2021-10-08 06:35:08,Tony Bennett,The Boulevard Of Broken Dreams,Jazz,07:52
+2021-10-09 14:14:46,Harry Belafonte,The Next Big River,Pop,06:01
+2021-10-10 15:46:36,Paul Bley,My Heart,Jazz,07:58
+2021-10-11 02:12:10,Sarah Vaughan,Jim,Jazz,03:46
+2021-10-11 07:02:29,Dean Martin,I Feel A Song Comin' On,Jazz,07:39

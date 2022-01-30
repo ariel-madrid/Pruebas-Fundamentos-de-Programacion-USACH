@@ -1,0 +1,856 @@
+2020-01-01 09:48:57,Jazzotron,Let's Go,Jazz,06:47
+2020-01-01 22:56:13,R. City,Again,Reggae,07:10
+2020-01-02 18:25:51,Aspects,Hip Hop Circus,Hip Hop,07:08
+2020-01-03 05:49:01,Billie Eilish,Copycat,Pop,08:09
+2020-01-04 16:12:56,8ball,You Don't Want Drama,Hip Hop,06:22
+2020-01-04 18:52:36,Alvvays,Adult Diversion,Rock,04:49
+2020-01-05 00:07:43,Kxng Crooked,One More Time,Hip Hop,06:35
+2020-01-05 15:38:48,Coldplay,Princess Of China,Pop,04:47
+2020-01-05 19:03:49,The Last Shadow Puppets,My Mistakes Were Made For You,Rock,08:19
+2020-01-07 04:27:06,Llorca,The Novel Sound,Jazz,03:07
+2020-01-07 13:54:26,Eddie Vedder,Long Nights,Rock,05:06
+2020-01-08 06:17:30,Thirty Seconds To Mars,Walk On Water,Rock,05:00
+2020-01-08 12:18:28,System Of A Down,Toxicity,Rock,03:34
+2020-01-09 04:25:45,Mr. Scruff,Music Takes Me Up,Jazz,08:05
+2020-01-09 04:29:05,The Vines,Factory,Blues,04:22
+2020-01-09 09:24:59,Black Joe Lewis & The Honeybears,Master Sold My Baby,Blues,03:19
+2020-01-10 16:17:21,Muddy Magnolias,Why Don't You Stay?,Blues,08:18
+2020-01-10 18:07:30,The Neighbourhood,Leaving Tonight,Rock,07:23
+2020-01-11 03:08:06,Blue Foundation,Eyes On Fire,Pop,07:22
+2020-01-11 07:25:30,50 Cent,Just A Lil Bit,Pop,08:03
+2020-01-11 10:25:59,The Herbaliser,Something Wicked,Jazz,03:17
+2020-01-11 21:41:31,Mandisa,Good Morning,Pop,04:36
+2020-01-12 08:40:25,Insane Clown Posse,Juggalo Homies,Rock,06:53
+2020-01-13 21:24:43,Awolnation,Woman Woman,Rock,07:15
+2020-01-14 00:12:41,Peter Tosh,Rumors Of War,Reggae,08:15
+2020-01-16 10:51:21,Michael Franti & Spearhead,I Got Love For Ya,Reggae,02:28
+2020-01-16 21:26:28,Michael Franti & Spearhead,I'll Be Waiting,Reggae,07:02
+2020-01-17 07:29:17,Paramore,All We Know,Pop,04:58
+2020-01-19 04:10:30,Milky Chance,Sadnecessary,Rock,03:46
+2020-01-19 05:57:16,Yeah Yeah Yeahs,Y Control,Pop,08:10
+2020-01-19 07:36:24,50 Cent,If I Can't,Pop,02:47
+2020-01-20 03:12:39,Maddie & Tae,Die From A Broken Heart,Pop,03:17
+2020-01-20 08:48:44,Eagles Of Death Metal,Wastin' My Time,Blues,07:40
+2020-01-20 12:42:23,Tame Impala,Slide Through My Fingers,Rock,07:00
+2020-01-20 13:15:35,Jay Reatard,See Saw,Blues,07:19
+2020-01-21 13:34:40,Kings Of Leon,Sex On Fire,Rock,03:46
+2020-01-21 22:26:32,Albert Hammond Jr.,Touché,Blues,05:09
+2020-01-23 14:31:43,Dorothy,Ain’t Our Time To Die,Blues,06:55
+2020-01-24 15:10:05,Lauv,I Like Me Better,Pop,05:14
+2020-01-25 08:56:41,Bing Crosby,You Are My Sunshine,Jazz,03:07
+2020-01-25 09:16:22,Colony House,Moving Forward,Rock,04:54
+2020-01-26 03:28:38,The Lumineers,Ho Hey,Pop,03:49
+2020-01-26 05:01:11,Grand Funk Railroad,Mr. Limousine Driver,Blues,02:13
+2020-01-27 02:00:36,Arctic Monkeys,Why'd You Only Call Me When You're High?,Rock,03:12
+2020-01-27 15:01:01,Queens Of The Stone Age,Skin On Skin,Blues,03:18
+2020-01-28 11:38:08,Rapsody,You Should Know,Hip Hop,01:38
+2020-01-28 14:17:01,John Brown's Body,Eyes Of The Maker,Reggae,07:33
+2020-01-29 09:56:01,Papa Roach,Between Angels And Insects,Pop,07:53
+2020-01-29 13:32:17,Popcaan,Evil,Reggae,07:02
+2020-01-29 17:38:39,Kid Cudi,Just What I Am,Pop,07:04
+2020-01-31 04:39:03,Calvin Harris,Blame,Pop,06:59
+2020-02-01 04:08:34,Drake,10 Bands,Pop,02:48
+2020-02-01 12:50:37,Neon Trees,1983,Pop,05:43
+2020-02-03 23:21:59,Royce Da 5'9",Thing For Your Girlfriend,Hip Hop,06:01
+2020-02-04 16:58:56,The White Stripes,Red Death At 6:14,Blues,01:47
+2020-02-05 02:24:22,Tomorrow People,Irie Music,Reggae,03:34
+2020-02-05 15:15:38,Jake Bugg,Broken,Rock,04:53
+2020-02-06 03:41:54,Dj Drama,Hip- Hop (out In The Dark),Hip Hop,05:41
+2020-02-08 19:10:34,Typical Cats,It Won't Stop,Jazz,07:39
+2020-02-08 23:50:41,Buddy Guy,Cognac,Blues,02:46
+2020-02-08 23:57:43,Killswitch Engage,The Arms Of Sorrow,Rock,06:13
+2020-02-09 06:43:07,Default,Count On Me,Pop,06:58
+2020-02-09 13:58:05,Snarky Puppy,Gone Under,Jazz,04:09
+2020-02-10 14:12:42,Terror X Crew,The Taste Of Hate (i Geusi Tou Menos),Hip Hop,03:48
+2020-02-11 22:17:50,Snoop Dogg,This Weed Iz Mine,Hip Hop,01:40
+2020-02-12 00:35:05,The Strokes,Alone; Together,Rock,04:00
+2020-02-12 06:13:04,Clinton Fearon,Blood For Blood,Reggae,04:15
+2020-02-13 09:27:59,Shaggy,Feel The Rush,Reggae,02:02
+2020-02-13 13:24:38,The Dead Weather,The Difference Between Us,Blues,05:00
+2020-02-14 07:47:25,Possessed By Paul James,Color Of My Bloody Nose,Blues,02:54
+2020-02-17 09:45:35,Tinariwen,Tiwàyyen,Blues,06:04
+2020-02-18 07:06:01,Sig Ragga,Feliz,Reggae,02:39
+2020-02-18 18:21:08,The Kills,Sweet Cloud,Blues,04:42
+2020-02-19 14:43:56,Holly Golightly,There's An End,Blues,03:01
+2020-02-20 00:21:24,Kenny Wayne Shepherd,Let Go,Blues,02:22
+2020-02-20 00:58:29,Matt Maeson,Hallucinogenics,Rock,07:33
+2020-02-20 14:40:53,Kesha,Crazy Beautiful Life,Pop,07:55
+2020-02-21 03:58:35,Blues Saraceno,Evil Ways,Blues,02:06
+2020-02-22 11:59:31,The Ataris,In This Diary,Pop,02:14
+2020-02-23 09:29:47,Kanye West,All Mine,Pop,08:17
+2020-02-24 08:28:15,Kings And Comrades,Guide And Protect,Reggae,04:52
+2020-02-24 16:06:17,The Strokes,Juicebox,Rock,07:42
+2020-02-25 20:26:39,Skizzy Mars,Do You There (feat. Marc E. Bassy),Pop,04:34
+2020-02-25 22:29:02,Goodbye June,Live In The Now,Blues,02:11
+2020-02-28 23:05:58,Moonchild,All The Joy,Jazz,06:05
+2020-02-29 03:19:12,Buddy Guy,Somebody's Sleeping In My Bed,Blues,01:53
+2020-02-29 05:49:25,Thievery Corporation,Vampires,Jazz,04:10
+2020-03-01 09:54:32,Kelly Clarkson,Heartbeat Song,Pop,07:29
+2020-03-03 13:19:14,Grandmaster Flash,Style (peter Gunn Theme),Hip Hop,05:20
+2020-03-04 08:22:25,Blink-182,Feeling This,Pop,05:02
+2020-03-04 11:18:56,Shenseea,Tie Me Up,Reggae,03:25
+2020-03-04 18:42:38,The Beautiful Girls,Spanish Town,Reggae,06:27
+2020-03-06 17:16:02,The Dear Hunter,Regress,Jazz,01:44
+2020-03-07 09:56:22,High School Musical Cast,High School Musical,Pop,07:00
+2020-03-08 15:35:32,Alt-j,Hand-made,Rock,05:15
+2020-03-08 17:41:01,50 Cent,Just A Lil Bit,Pop,08:03
+2020-03-09 13:02:20,John Brown's Body,Land Far Away,Reggae,05:18
+2020-03-09 16:19:21,Common,Go!,Pop,06:25
+2020-03-10 22:44:30,The Marshall Tucker Band,Stay In The Country,Blues,02:41
+2020-03-11 01:07:35,The Beautiful Girls,The Reason Is,Reggae,01:55
+2020-03-11 08:56:01,Wendell B,Where Were You Last Night,Blues,04:47
+2020-03-12 17:41:49,Harry Styles,Sweet Creature,Pop,03:39
+2020-03-13 03:27:21,Gucci Mane,Pillz,Hip Hop,04:59
+2020-03-13 08:21:18,Susannah Mccorkle,If I Only Had A Heart,Jazz,04:18
+2020-03-13 16:45:14,Epmd,You Gots To Chill,Hip Hop,01:30
+2020-03-14 13:53:39,The Movement,Gift,Reggae,06:50
+2020-03-15 21:51:24,Marvin Sease,I Can't Afford To Be Caught,Blues,03:04
+2020-03-15 23:06:55,Motion City Soundtrack,When You're Around,Rock,03:44
+2020-03-16 06:20:14,Buddy Guy,I Go By Feel,Blues,07:42
+2020-03-16 06:35:55,Blackface,Why Oh Why,Hip Hop,02:22
+2020-03-17 02:53:45,Hale,Here Tonight,Reggae,01:37
+2020-03-17 22:50:36,Plej,Blue,Jazz,04:18
+2020-03-18 23:06:03,Schoolboy Q,Studio,Pop,08:14
+2020-03-19 07:15:26,Josh Groban,You Raise Me Up,Pop,07:53
+2020-03-19 16:25:28,Ballyhoo!,Riddled With Bullets,Reggae,06:21
+2020-03-20 10:44:44,Kid Ink,Show Me (feat. Chris Brown),Pop,01:47
+2020-03-22 21:42:56,Ella Fitzgerald,What Are You Doing New Year's Eve?,Blues,03:42
+2020-03-23 09:35:06,Lady Gaga,Judas,Pop,06:34
+2020-03-23 10:46:47,Lutan Fyah,Ungrateful,Reggae,06:04
+2020-03-23 14:50:05,Seether,Breakdown,Rock,04:20
+2020-03-24 07:33:28,Necrophagist,Epitaph,Jazz,08:14
+2020-03-24 09:20:20,Big Daddy Kane,Ain't No Stoppin Us Now,Hip Hop,05:35
+2020-03-26 06:35:50,Hannah Montana,You'll Always Find Your Way Back Home,Pop,07:13
+2020-03-26 23:43:53,Halsey,Walls Could Talk,Pop,07:34
+2020-03-27 15:49:37,Starset,My Demons,Rock,06:38
+2020-03-28 09:58:14,Marina,I Am Not A Robot,Pop,01:47
+2020-03-29 02:59:19,Blackface,Boomyaka,Hip Hop,06:20
+2020-03-30 13:39:44,The Green,Always & Forever,Reggae,08:18
+2020-03-30 22:07:00,Lukas Nelson And Promise Of The Real,Can You Hear Me Love You,Blues,05:52
+2020-04-01 00:24:46,Tame Impala,Past Life,Rock,02:50
+2020-04-02 11:49:15,Ky-mani Marley,Rule My Heart,Reggae,03:50
+2020-04-02 15:42:19,Jhene Aiko,Sativa,Pop,04:10
+2020-04-02 22:14:14,Jon Bellion,2 Rocking Chairs,Rock,07:01
+2020-04-06 01:31:38,Lynyrd Skynyrd,Still Unbroken,Blues,04:22
+2020-04-07 04:53:36,Jay Soto,Holding On,Jazz,05:17
+2020-04-07 12:44:17,Hunny,Televised,Rock,03:27
+2020-04-08 16:45:59,Madeleine Peyroux,The Summer Wind,Jazz,08:15
+2020-04-08 21:01:14,Jazmine Sullivan,Bust Your Windows,Pop,04:30
+2020-04-09 19:46:15,Montell Jordan,This Is How We Do It (re-recorded),Hip Hop,01:34
+2020-04-11 05:02:28,Jj Grey & Mofro,Gal Youngin,Blues,05:45
+2020-04-12 05:57:35,Slim Thug,Still Tippin,Hip Hop,05:15
+2020-04-12 18:28:02,Jonny Lang,Livin' For The City,Blues,04:07
+2020-04-12 21:26:16,Parachute,She Is Love,Pop,06:32
+2020-04-13 20:28:07,Nnamdi Ogbonnaya,Hop Off,Hip Hop,05:35
+2020-04-14 14:10:46,The Wood Brothers,Atlas,Blues,04:57
+2020-04-16 14:49:44,Method Man,4:20,Hip Hop,01:50
+2020-04-17 05:51:50,Ty Segall,Manipulator,Blues,04:40
+2020-04-17 08:46:21,Matt Maeson,Tribulation,Rock,02:34
+2020-04-17 17:40:56,Shyheim,21st Century Crisis,Hip Hop,05:38
+2020-04-18 16:14:50,Hazhe,Fuck You,Hip Hop,06:46
+2020-04-19 06:05:30,A R I Z O N A,Summer Days,Rock,04:58
+2020-04-21 12:52:30,Snail Mail,Thinning,Rock,01:31
+2020-04-22 08:38:09,Josefus,Crazy Man,Blues,05:02
+2020-04-22 17:01:15,Aaron Shust,My Savior My God,Rock,05:10
+2020-04-22 18:53:09,Gentleman,Children Of Tomorrow,Reggae,06:02
+2020-04-22 20:40:16,No Vacation,Beach Bummer,Rock,08:00
+2020-04-23 06:39:45,One Direction,More Than This,Pop,02:21
+2020-04-23 07:08:45,Muse,Hysteria,Rock,04:34
+2020-04-23 07:12:59,Trevor Hall,Green Mountain State,Pop,02:02
+2020-04-23 13:24:41,Josh Groban,To Where You Are,Pop,06:42
+2020-04-25 00:53:03,Too Rude,Local Dub,Reggae,07:56
+2020-04-29 09:24:13,Lil Yachty,One Night,Pop,04:22
+2020-04-29 19:37:39,The Dillinger Escape Plan,One Of Us Is The Killer,Jazz,07:20
+2020-04-30 08:44:53,The Skints,Mindless,Reggae,07:15
+2020-05-01 18:38:54,Nine Inch Nails,The Hand That Feeds,Rock,08:00
+2020-05-04 13:05:57,Furry Lewis,Judge Harsh Blues (alternate Take),Blues,07:15
+2020-05-04 14:28:12,Gina Sicilia,Man In The Sky,Blues,02:22
+2020-05-06 10:14:08,Vic Mensa,Liquor Locker,Pop,05:28
+2020-05-07 20:12:32,Willie Bobo,Dig My Feeling,Jazz,04:36
+2020-05-08 03:04:54,The Allman Brothers Band,Heart Of Stone,Blues,05:41
+2020-05-08 23:37:18,Wax Tailor,Ecstasy,Jazz,02:50
+2020-05-09 16:18:19,I Dont Know How But They Found Me,Do It All The Time,Rock,07:20
+2020-05-10 09:18:58,Third Day,Trust In Jesus,Rock,05:07
+2020-05-10 14:32:06,Mac Miller,Rush Hour,Pop,04:03
+2020-05-10 21:11:37,A Great Big World,Kaleidoscope,Rock,04:55
+2020-05-10 23:11:13,Fats Domino,So Long,Blues,05:04
+2020-05-11 00:38:56,Denis Solee,One For My Baby,Jazz,06:57
+2020-05-11 11:40:55,The Dear Hunter,The Bitter Suite Iii: Embrace,Jazz,01:35
+2020-05-13 14:17:56,Busta Rhymes,Do My Thing,Hip Hop,06:57
+2020-05-13 15:00:19,Ballyhoo!,Waiting,Reggae,02:56
+2020-05-14 14:44:00,James Arthur,Can I Be Him,Pop,02:10
+2020-05-14 18:07:32,Switchfoot,This Is Home,Rock,04:26
+2020-05-15 04:06:13,Beres Hammond,Music Is Life,Reggae,03:14
+2020-05-15 05:57:57,Lndn Drgs,Hop Out,Hip Hop,07:42
+2020-05-16 09:43:02,Joe Walsh,Analog Man,Blues,03:20
+2020-05-17 17:41:46,Surf Curse,Forever Dumb,Rock,06:55
+2020-05-20 01:30:28,The Dear Hunter,Cascade,Jazz,06:27
+2020-05-20 04:38:05,Sevendust,Angel's Son,Rock,03:57
+2020-05-20 10:40:52,Danielle Nicole,Save Me,Blues,03:18
+2020-05-20 19:10:09,Three 6 Mafia,That's Right,Pop,07:40
+2020-05-22 07:32:14,Polkadot Cadaver,Last Call In Jonestown,Jazz,05:21
+2020-05-23 01:33:09,Grandson,Overdose,Rock,07:47
+2020-05-24 11:43:27,Echo Movement,All Night,Reggae,02:09
+2020-05-25 07:55:03,Jon Bellion,All Time Low,Pop,07:20
+2020-05-26 06:23:11,Meshuggah,Swarm,Jazz,04:51
+2020-05-26 07:38:23,Bazzi,Myself,Pop,01:35
+2020-05-27 04:17:13,Chronixx,Selassie Souljahz (feat. Sizzla Kalonji; Protoje; Kabaka Pyramid),Reggae,07:28
+2020-05-27 12:28:29,Lil B,Hip Hop,Hip Hop,02:27
+2020-05-27 19:08:16,Phish,Walls Of The Cave,Blues,03:02
+2020-05-29 01:38:15,The Black Angels,The Executioner,Blues,01:55
+2020-05-30 09:43:33,Skillet,The Resistance,Rock,08:03
+2020-05-31 17:43:45,Junior Kelly,Sunshine,Reggae,04:28
+2020-05-31 20:18:14,Rise Against,Under The Knife,Pop,03:52
+2020-06-03 02:21:44,Gentleman,Rumours,Reggae,04:12
+2020-06-04 03:16:07,Cut Copy,Take Me Over,Rock,03:19
+2020-06-05 01:54:41,Rend Collective,Counting Every Blessing,Rock,01:46
+2020-06-05 03:08:07,Bluntone,Machinegun Rap,Jazz,04:26
+2020-06-06 11:40:43,J-kwon,Tipsy 09,Hip Hop,05:26
+2020-06-06 14:50:19,Kenny G,As Time Goes By,Jazz,05:56
+2020-06-07 05:00:34,Seasick Steve,Treasures,Blues,04:56
+2020-06-08 13:24:16,Lil Wayne,Welcome To Tha Concrete Jungle,Hip Hop,07:38
+2020-06-09 09:18:25,Epmd,The Big Payback,Hip Hop,04:59
+2020-06-10 23:14:13,Tegan And Sara,Everything Is Awesome!!! (feat. The Lonely Island),Pop,01:47
+2020-06-11 14:54:39,T-rock,What's Stopping You (feat. Unexpected),Hip Hop,06:53
+2020-06-11 21:37:22,Krs-one,Ah Yeah,Hip Hop,06:55
+2020-06-13 02:33:19,Proleter,It Don't Mean A Thing,Jazz,04:57
+2020-06-13 10:02:12,Terror X Crew,Don't Be Afraid (mi Fovasai),Hip Hop,05:26
+2020-06-14 13:28:37,Christina Aguilera,Impossible,Pop,02:34
+2020-06-16 18:36:32,System Of A Down,Boom!,Rock,07:48
+2020-06-17 06:37:10,Jason Gray,Good To Be Alive,Rock,04:01
+2020-06-19 01:47:49,Shinedown,I'll Follow You,Rock,01:51
+2020-06-20 05:00:47,Meek Mill,24/7 (feat. Ella Mai),Pop,03:49
+2020-06-21 08:10:42,Foo Fighters,Let It Die,Rock,07:00
+2020-06-22 11:28:41,Junior Kelly,Sunshine,Reggae,04:28
+2020-06-22 20:27:34,Meshuggah,Marrow,Jazz,07:51
+2020-06-23 05:51:00,The Pussycat Dolls,Stickwitu,Pop,06:02
+2020-06-23 10:42:10,Phish,46 Days,Blues,07:09
+2020-06-23 18:32:37,The Shins,So Says I,Pop,02:45
+2020-06-24 13:52:35,Zac Efron,Ladies' Choice,Pop,02:26
+2020-06-25 06:36:38,Devin Townsend Project,Supercrush!,Jazz,03:28
+2020-06-26 03:36:50,Wavves,Nine Is God,Rock,03:32
+2020-06-27 13:48:39,You Me At Six,Underdog,Rock,03:48
+2020-06-28 07:10:49,Dj Nel'assassin,Explicações,Hip Hop,07:01
+2020-06-29 04:41:13,The Black Keys,The Wicked Messenger,Blues,06:53
+2020-06-29 14:01:26,The National,Mr. November,Pop,07:02
+2020-06-30 22:34:03,Boney James,Hold On Tight,Jazz,03:28
+2020-07-01 06:05:28,My Chemical Romance,Sing,Pop,06:33
+2020-07-01 07:09:03,Thee Oh Sees,Minotaur,Blues,02:11
+2020-07-01 12:58:45,Backstreet Boys,Crawling Back To You,Pop,08:14
+2020-07-04 11:05:35,Buddy Guy,Sweet Home Chicago,Blues,06:29
+2020-07-04 17:19:34,Hellyeah,Love Falls,Rock,02:00
+2020-07-04 20:04:25,Tinariwen,Chaghaybou,Blues,01:33
+2020-07-06 13:06:12,Seether,Broken,Rock,07:39
+2020-07-06 20:08:53,Flofilz,Bassment Jazz,Jazz,03:42
+2020-07-10 19:20:44,Deftones,Entombed,Rock,07:05
+2020-07-13 08:02:46,Jonny Lang,Dying To Live,Blues,04:56
+2020-07-13 10:30:14,Lil Wayne,She Will,Pop,07:48
+2020-07-13 12:21:05,Candy Dulfer,My Funk,Jazz,05:58
+2020-07-14 13:04:49,A Day To Remember,The Danger In Starting A Fire,Pop,08:04
+2020-07-14 19:41:09,Hopsin,Hip Hop Sinister,Hip Hop,06:16
+2020-07-14 23:24:58,Don Bigg,5,Hip Hop,05:47
+2020-07-16 02:42:01,Dj Khaled,Hip Hop,Hip Hop,04:29
+2020-07-16 03:07:54,Jay Reatard,Death Is Forming,Blues,05:16
+2020-07-17 22:30:20,Bent,So Long Without You,Jazz,04:47
+2020-07-18 14:03:44,Bugle,Anointed,Reggae,05:28
+2020-07-20 09:17:08,Paul Wall,I'm Throwed,Hip Hop,04:08
+2020-07-20 15:57:18,Tame Impala,Slide Through My Fingers,Rock,07:00
+2020-07-21 17:36:30,Dan Auerbach,When The Night Comes,Blues,02:59
+2020-07-21 17:42:10,Raekwon,Still Struggling,Hip Hop,04:06
+2020-07-22 00:22:43,Adele,Tired,Pop,06:37
+2020-07-22 15:02:19,Twenty One Pilots,Oh Ms Believer,Pop,08:17
+2020-07-27 02:17:00,J-kwon,Underwear,Hip Hop,07:02
+2020-07-27 07:35:47,Positive K,I Got A Man (re-recorded) [remastered],Hip Hop,01:52
+2020-07-27 18:59:03,Of Montreal,Lysergic Bliss,Pop,02:14
+2020-07-27 19:34:40,Mike Zito,I Wouldn't Treat A Dog (the Way You Treat Me),Blues,03:23
+2020-07-28 18:13:52,Big Daddy Kane,Smooth Operator,Hip Hop,03:39
+2020-07-29 05:41:10,Paul Simon,Slip Slidin' Away,Pop,06:00
+2020-07-29 05:42:48,Nahko And Medicine For The People,San Quentin,Reggae,06:54
+2020-07-29 08:47:50,Melanie Martinez,Pity Party,Pop,02:59
+2020-07-29 15:07:42,Dj Tomekk,Intro,Hip Hop,04:42
+2020-07-29 18:37:29,Ms. Jade,Ching Ching,Hip Hop,08:02
+2020-07-30 00:52:15,The Brian Jonestown Massacre,Nevertheless,Blues,04:35
+2020-07-30 01:34:24,Mumford & Sons,I Gave You All,Rock,01:51
+2020-07-30 23:19:52,Beach House,Lemon Glow,Rock,03:17
+2020-07-31 12:17:59,Selena Gomez,Come & Get It,Pop,06:59
+2020-07-31 15:28:16,Rend Collective,Build Your Kingdom Here,Rock,07:58
+2020-08-01 18:08:27,Thirty Seconds To Mars,Up In The Air,Rock,07:18
+2020-08-02 00:51:55,Nonpoint,Chaos And Earthquakes,Rock,05:41
+2020-08-02 00:52:16,Abstract Rude,Drug War,Hip Hop,06:43
+2020-08-02 01:17:52,Korn,Rotting In Vain,Rock,02:33
+2020-08-02 19:15:56,The Yardbirds,Still I'm Sad,Blues,01:37
+2020-08-02 19:31:52,Yo Gotti,Down In The Dm,Pop,02:47
+2020-08-03 05:09:45,Black Country Communion,Black Country,Blues,06:44
+2020-08-03 13:44:21,Egypt Central,You Make Me Sick,Rock,04:23
+2020-08-03 22:52:02,The Delta Saints,Young And Crazy,Blues,02:48
+2020-08-04 06:55:59,Jessie J,Price Tag,Pop,07:36
+2020-08-04 23:01:43,Jj Grey & Mofro,Circles,Blues,02:01
+2020-08-05 02:19:33,Mike Oldfield,Nuclear,Rock,06:56
+2020-08-05 10:17:11,Coldplay,The Hardest Part,Pop,07:37
+2020-08-06 10:37:57,Christopher Martin,Paper Loving,Reggae,02:20
+2020-08-06 23:01:17,Pacific Dub,Native,Reggae,07:45
+2020-08-07 23:27:44,The Marcus King Band,Dyin',Blues,07:01
+2020-08-12 05:42:27,System Of A Down,Needles,Rock,06:36
+2020-08-12 07:51:46,The Black Angels,The Sniper,Blues,03:39
+2020-08-12 14:20:27,Devin Townsend Band,Suicide,Jazz,04:09
+2020-08-14 07:18:31,Yoke Lore,Beige,Pop,01:50
+2020-08-14 11:13:44,Colbie Caillat,Never Gonna Let You Down,Pop,02:23
+2020-08-15 11:20:23,Palace,Live Well,Rock,02:42
+2020-08-15 12:45:14,Fantastic Negrito,About A Bird,Blues,01:57
+2020-08-16 06:33:38,Dean Martin,Who's Got The Action?,Jazz,04:11
+2020-08-16 10:15:21,Blockhead,Expiration Date,Jazz,07:24
+2020-08-17 07:15:46,The Black Keys,Same Old Thing,Blues,02:31
+2020-08-20 07:53:44,Thievery Corporation,Music To Make You Stagger,Jazz,02:09
+2020-08-20 09:17:59,Delbert Mcclinton,Livin' It Down,Blues,06:58
+2020-08-21 04:08:26,Method Man,All My N*gg*s,Hip Hop,07:07
+2020-08-21 06:16:19,The Dear Hunter,Filth And Squalor,Jazz,05:38
+2020-08-21 21:28:50,Ty Dolla $ign,Wavy (feat. Joe Moses),Pop,02:57
+2020-08-21 21:56:16,Dr. Dog,Survive,Rock,02:42
+2020-08-22 20:53:53,Lorde,Perfect Places,Pop,04:53
+2020-08-23 06:55:09,Boosie Badazz,Crazy,Hip Hop,02:37
+2020-08-24 04:59:51,Tony Bennett,My Favorite Things,Jazz,07:17
+2020-08-24 16:07:00,De-phazz,Good Boy,Jazz,07:53
+2020-08-25 06:45:27,August Greene,Black Kennedy,Jazz,04:45
+2020-08-26 10:13:48,G-eazy,Let's Get Lost (feat. Devon Baldwin),Pop,05:49
+2020-08-26 14:14:57,Summer Salt,Revvin' My Cj7,Rock,08:16
+2020-08-26 23:39:17,Tegan And Sara,Walking With A Ghost,Pop,02:31
+2020-08-27 13:21:23,Jonathan Kreisberg,Canto De Ossanha,Jazz,03:56
+2020-08-28 00:25:01,African Underground,Intro,Hip Hop,05:30
+2020-08-28 03:50:56,Samantha Fish,Miles To Go,Blues,08:19
+2020-08-28 18:01:32,Saosin,Voices,Pop,06:14
+2020-08-29 11:44:37,Hot Water Music,Trusty Chords,Pop,06:10
+2020-08-29 13:05:25,Beres Hammond,Lovely Day,Reggae,02:43
+2020-08-29 14:56:46,Mumford & Sons,Slip Away,Rock,04:54
+2020-08-30 02:57:39,Royce Da 5'9",A Brief Intermission (skit),Hip Hop,02:53
+2020-08-31 18:58:54,Robert Glasper Experiment,Lift Off / Mic Check,Jazz,07:59
+2020-09-01 04:54:16,Santana,Sideways (feat. Citizen Cope),Blues,03:04
+2020-09-02 14:57:56,Thee Oh Sees,Poor Queen,Blues,05:25
+2020-09-02 21:19:16,Ali Farka Touré,Savane,Blues,03:39
+2020-09-04 08:05:27,Klim,Ninetofive,Jazz,02:04
+2020-09-04 09:08:11,Jordan Rakei,Nerve,Jazz,05:33
+2020-09-07 17:05:04,Pacific Dub,You & Me,Reggae,03:01
+2020-09-08 18:07:14,Cake,Thrills,Pop,05:10
+2020-09-09 04:19:46,Brand New,Good To Know That If I Ever Need Attention,Pop,02:26
+2020-09-10 18:29:25,The Used,Blue And Yellow,Pop,05:31
+2020-09-11 00:26:59,Rise Against,Swing Life Away,Pop,01:55
+2020-09-11 06:19:14,Noah Kahan,Hurt Somebody,Pop,07:53
+2020-09-12 22:56:42,Michelle Branch,All You Wanted,Pop,03:15
+2020-09-12 23:15:58,Current Joys,Televisions,Rock,05:42
+2020-09-13 07:31:45,Post Malone,Broken Whiskey Glass,Pop,07:12
+2020-09-14 05:21:30,Meshuggah,Mind's Mirrors,Jazz,02:36
+2020-09-15 16:11:09,Lil' Flip,Game Over,Pop,06:46
+2020-09-15 22:04:25,Ocean Alley,Space Goat,Reggae,02:24
+2020-09-16 19:19:30,Drake,6 Man,Pop,02:54
+2020-09-18 17:55:15,Demi Lovato,Can't Back Down,Pop,02:16
+2020-09-20 07:37:18,Jah Cure,The Love Of My Life,Reggae,07:44
+2020-09-20 20:21:06,Snoop Lion,The Good Good,Reggae,05:38
+2020-09-21 02:47:18,Smif-n-wessun,Bucktown,Hip Hop,01:42
+2020-09-21 11:34:50,Bargain Music,I'm Waiting,Reggae,05:40
+2020-09-22 02:49:44,Muse,Thoughts Of A Dying Atheist,Rock,03:03
+2020-09-22 08:37:57,Jessie Reyez,Great One,Pop,05:08
+2020-09-22 09:36:16,Thievery Corporation,Warning Shots Featuring Sleepy Wonder And Gunjan,Jazz,03:54
+2020-09-22 19:13:48,Phil Collins,Welcome,Rock,02:01
+2020-09-22 20:43:41,People Under The Stairs,Graffiti On A High School Wall,Jazz,01:42
+2020-09-22 20:47:21,Illenium,Beautiful Creatures (feat. Max),Pop,04:19
+2020-09-26 10:39:00,Tame Impala,Beverly Laurel,Rock,06:15
+2020-09-27 01:36:55,Kodak Black,No Flockin,Pop,01:47
+2020-09-27 12:18:30,Alessia Cara,Here,Pop,04:06
+2020-09-27 16:00:28,Bonnie Raitt,One Belief Away,Blues,03:08
+2020-09-28 02:21:24,Ashanti,Foolish,Pop,02:20
+2020-09-29 03:53:09,The Dear Hunter,This Beautiful Life,Jazz,02:50
+2020-10-01 09:43:31,Car Bomb,Lights Out,Jazz,01:33
+2020-10-02 10:44:44,Lana Del Rey,Lust For Life (with The Weeknd),Pop,06:38
+2020-10-03 15:33:49,Warren Haynes,Hattiesburg Hustle,Blues,07:34
+2020-10-03 16:45:20,Alborosie,Black Woman,Reggae,08:20
+2020-10-04 01:22:48,Groove Armada,Look Me In The Eye Sister (feat. Jess Larabee),Jazz,04:11
+2020-10-05 04:44:09,Imagine Dragons,Radioactive,Rock,05:05
+2020-10-05 06:57:21,Adele,Skyfall,Pop,01:56
+2020-10-06 04:38:11,Casting Crowns,Lifesong,Rock,05:47
+2020-10-07 02:09:22,The Go,Tease My Ears,Blues,04:07
+2020-10-07 12:14:11,Interpol,Obstacle 2,Rock,04:16
+2020-10-07 23:52:48,Bullet For My Valentine,Your Betrayal,Pop,05:36
+2020-10-08 06:48:50,Sublime With Rome,My World,Reggae,05:04
+2020-10-08 09:51:22,Samantha Fish,Chills & Fever,Blues,02:01
+2020-10-08 12:24:18,Static-x,Cold,Rock,08:06
+2020-10-10 21:19:23,La Secta Allstar,Dame Lo Que Quieras,Reggae,07:19
+2020-10-11 05:52:34,Royce Da 5'9",Far Away,Hip Hop,02:08
+2020-10-12 06:58:43,Badflower,Animal,Rock,02:37
+2020-10-13 10:39:52,Joe Bonamassa,Get Back My Tomorrow,Blues,04:30
+2020-10-13 22:44:44,Through The Roots,Take You There,Reggae,08:01
+2020-10-14 00:37:37,Canibus,Hip-hop Black Ops,Hip Hop,07:21
+2020-10-15 01:40:16,Slim Thug,Check On It,Hip Hop,05:59
+2020-10-15 03:32:52,Paul Taylor,Exotica,Jazz,03:40
+2020-10-15 15:32:42,Luciano,Give Praise,Reggae,06:15
+2020-10-15 20:37:31,Nickodemus,Give The Drummer Some,Jazz,03:28
+2020-10-16 08:05:52,Local Natives,Mt. Washington,Rock,02:27
+2020-10-16 11:21:24,Razastarr,Opos Lioni To Keri,Hip Hop,05:22
+2020-10-16 20:54:25,Jukebox The Ghost,Under My Skin,Rock,05:43
+2020-10-17 01:06:46,The Band,The Genetic Method / Chest Fever,Blues,03:43
+2020-10-19 21:39:39,Dispatch,Letter To Lady J,Reggae,06:20
+2020-10-20 01:13:43,Joe Bonamassa,Mumbling Word,Blues,05:15
+2020-10-20 19:53:36,Weezer,Photograph,Pop,01:42
+2020-10-21 02:29:43,The Weeknd,Loft Music,Pop,02:26
+2020-10-21 16:23:37,Gavin Rossdale,Love Remains The Same,Rock,04:37
+2020-10-22 04:17:22,Green Day,Kill The Dj,Rock,02:11
+2020-10-22 19:41:32,Aminé,Heebiejeebies,Pop,06:24
+2020-10-23 22:03:18,Andy Grammer,Back Home,Pop,04:36
+2020-10-25 13:15:48,Rise Against,Satellite,Pop,02:47
+2020-10-26 01:58:21,Incubus,Are You In?,Pop,04:06
+2020-10-26 02:29:20,My Morning Jacket,Tyrone,Pop,02:59
+2020-10-26 13:46:58,Mac Miller,Objects In The Mirror,Pop,08:13
+2020-10-26 16:03:40,The Killers,Human,Rock,04:42
+2020-10-26 18:09:52,The Heavy Eyes,Levantado,Blues,03:04
+2020-10-26 18:35:46,Eric Clapton,Don't Wait (feat. John Mayer),Blues,06:23
+2020-10-26 23:11:56,Breaking Benjamin,Crawl,Pop,05:13
+2020-10-27 00:19:16,Atreyu,Ex's And Oh's,Pop,06:12
+2020-10-27 16:09:05,Too Rude,Local Dub,Reggae,07:56
+2020-10-30 10:24:46,Dave Koz,Anything’s Possible,Jazz,04:09
+2020-10-31 07:20:47,Jonny Lang,Last Goodbye,Blues,05:12
+2020-10-31 18:01:55,Yellowman,Gun Man,Reggae,04:19
+2020-10-31 19:45:03,Krs-one,This Is What It Is,Hip Hop,04:11
+2020-10-31 22:57:12,Crowder,All My Hope,Rock,02:22
+2020-11-05 03:06:54,Slightly Stoopid,Rhythm Streets,Reggae,04:28
+2020-11-06 03:07:35,Halsey,Castle,Pop,03:16
+2020-11-06 14:24:49,Meshuggah,Marrow,Jazz,07:51
+2020-11-08 08:55:21,Deap Vally,Walk Of Shame,Blues,05:09
+2020-11-08 18:51:48,Kevin Downswell,If It's Not You (then Lord It's Nothing),Reggae,08:15
+2020-11-11 01:03:00,Tinariwen,Tiwàyyen,Blues,06:04
+2020-11-11 05:33:42,Wc,Ain't A Damn Thang Changed,Hip Hop,04:11
+2020-11-11 19:26:28,Lana Del Rey,Lust For Life (with The Weeknd),Pop,06:38
+2020-11-11 23:56:09,Jazzotron,Let's Go,Jazz,06:47
+2020-11-12 11:24:03,Loon,You Don't Know,Hip Hop,01:42
+2020-11-13 05:09:16,Jht,Hip Hop; Pt. 1,Hip Hop,07:05
+2020-11-15 07:27:25,Kaskade,Move For Me,Pop,02:42
+2020-11-16 19:26:11,Jd Mcpherson,A Gentle Awakening,Blues,05:23
+2020-11-17 04:51:32,Kelly Clarkson,Because Of You,Pop,03:33
+2020-11-18 10:05:51,Biz Markie,Nobody Beats The Biz,Hip Hop,03:47
+2020-11-21 21:42:06,Russ,Down For You,Pop,05:27
+2020-11-22 03:37:39,Nje,This Is My Melody,Hip Hop,03:11
+2020-11-23 10:19:34,Swiss,If Tomorrow Never Comes,Reggae,03:23
+2020-11-23 19:23:26,Hollywood Undead,Dead Bite,Rock,05:33
+2020-11-25 10:57:49,Neko Case,I Wish I Was The Moon,Pop,07:55
+2020-11-26 05:43:15,Cherish,Unappreciated,Pop,02:37
+2020-11-26 20:49:50,Atreyu,Lip Gloss And Black,Pop,05:43
+2020-11-27 16:02:47,Seth Walker,Another Day,Blues,02:05
+2020-11-27 21:55:23,The Reverend Peyton's Big Damn Band,Devils Look Like Angels,Blues,08:18
+2020-11-29 14:17:17,Trina,Hustling,Hip Hop,06:18
+2020-11-29 17:01:27,Muse,Dig Down,Rock,08:03
+2020-12-01 02:39:25,The Dillinger Escape Plan,Van Damsel,Jazz,05:46
+2020-12-01 13:48:03,Blink-182,Anthem Part Two,Pop,05:11
+2020-12-02 19:06:06,Billie Eilish,Bored,Pop,03:22
+2020-12-03 04:20:22,The Lox,Money; Power & Respect,Hip Hop,04:44
+2020-12-04 00:09:12,Special Efx,Two Hearts,Jazz,04:07
+2020-12-04 01:17:42,Hannah Montana,We Got The Party,Pop,02:32
+2020-12-05 11:01:09,Black$tar,Get It (remix),Hip Hop,07:43
+2020-12-08 06:01:40,The Reverend Peyton's Big Damn Band,Pot Roast And Kisses,Blues,04:29
+2020-12-08 10:06:50,Death Cab For Cutie,A Lack Of Color,Pop,06:05
+2020-12-10 22:19:55,Fergie,A Little Party Never Killed Nobody (all We Got),Pop,05:42
+2020-12-11 03:21:26,Culture,Addis Ababa,Reggae,02:59
+2020-12-13 21:32:45,The Stooges,Till The End Of The Night,Blues,06:08
+2020-12-14 01:32:36,Sum 41,With Me,Pop,06:11
+2020-12-14 12:39:07,People Under The Stairs,Tales Of Kidd Drunkadelic,Jazz,03:54
+2020-12-15 06:42:33,Jah Roots,Wanting You,Reggae,07:14
+2020-12-17 18:50:55,The Black Angels,Science Killer,Blues,03:10
+2020-12-18 01:27:51,Tennis,Origins,Pop,07:51
+2020-12-18 15:09:23,Swans,Oxygen,Jazz,06:03
+2020-12-19 09:47:42,Furry Lewis,Judge Harsh Blues (alternate Take),Blues,07:15
+2020-12-20 11:53:40,113,Jackpot,Hip Hop,04:56
+2020-12-22 01:03:53,Sam Smith,Safe With Me,Pop,06:02
+2020-12-22 08:46:00,Dirty Heads,God Damn Liar,Reggae,05:02
+2020-12-22 12:40:08,Ted Nugent,Tooth Fang & Claw,Blues,06:54
+2020-12-23 09:22:15,Dirty Heads,God Damn Liar,Reggae,05:02
+2020-12-25 03:08:05,Michael Franti & Spearhead,Hey Hey Hey,Reggae,07:54
+2020-12-26 10:55:11,Matt Maeson,Hallucinogenics,Rock,07:33
+2020-12-26 22:26:48,The Walkmen,Heaven,Rock,02:41
+2020-12-28 04:49:03,Blind Pilot,Three Rounds And A Sound,Pop,04:17
+2020-12-28 12:27:24,Rend Collective,Counting Every Blessing,Rock,01:46
+2020-12-29 15:28:53,Corleone,In The Mirror,Hip Hop,05:44
+2020-12-31 15:10:03,Puscifer,The Remedy,Rock,06:55
+2021-01-02 20:02:39,The Main Ingredient,Summer Breeze,Jazz,01:46
+2021-01-03 22:24:38,The Pussycat Dolls,Beep,Pop,07:27
+2021-01-04 02:11:06,Fruit Bats,Absolute Loser,Rock,02:42
+2021-01-05 04:38:16,Shigeto,So So Lovely,Jazz,01:38
+2021-01-06 09:37:34,Puscifer,Horizons,Rock,07:55
+2021-01-07 11:12:50,Grand Funk Railroad,Born To Die,Blues,05:30
+2021-01-08 16:32:33,Gorilla Zoe,What It Is,Hip Hop,01:43
+2021-01-09 16:06:46,A R I Z O N A,Cross My Mind,Rock,06:22
+2021-01-09 22:23:34,Gorillaz,White Light,Pop,03:39
+2021-01-10 13:08:27,Jazz Cartier,Nobody's Watching,Hip Hop,05:39
+2021-01-11 00:55:19,Mobb Deep,Shed So Many Tears,Hip Hop,05:33
+2021-01-11 15:04:33,J-kwon,I'm Shinin,Hip Hop,07:37
+2021-01-13 16:43:19,Mogwai,Take Me Somewhere Nice,Rock,06:09
+2021-01-13 19:20:38,Unified Highway,Distraction (feat. Garrett Douglas),Reggae,07:30
+2021-01-14 13:55:21,Goodbye June,Good Side,Blues,04:57
+2021-01-14 14:25:41,Jimi Hendrix,$20 Fine,Blues,08:03
+2021-01-14 20:34:48,Ice-t,I'm Your Pusher/pusherman,Hip Hop,06:10
+2021-01-15 10:27:18,Imagine Dragons,Hopeless Opus,Rock,03:32
+2021-01-17 07:57:44,The Brian Jonestown Massacre,Telegram,Blues,02:05
+2021-01-17 13:03:26,The Black Keys,Act Nice And Gentle,Blues,03:12
+2021-01-17 14:05:30,Alt-j,In Cold Blood,Rock,05:52
+2021-01-17 14:35:34,Needtobreathe,Happiness,Rock,04:30
+2021-01-17 19:51:51,Lorde,Royals,Pop,04:12
+2021-01-19 19:07:58,The Andrews Sisters,Run; Rabbit; Run,Jazz,06:13
+2021-01-21 08:50:43,Tame Impala,Yes I'm Changing,Rock,06:43
+2021-01-22 03:27:07,Kehlani,Crzy,Pop,01:43
+2021-01-22 20:22:58,Die Antwoord,I Fink U Freeky,Rock,07:04
+2021-01-22 21:16:14,Lil Scrappy,Be Real,Hip Hop,06:17
+2021-01-24 07:03:23,The Expendables,Bridges Burned,Reggae,07:28
+2021-01-25 01:57:50,North Mississippi Allstars,Keep The Devil Down,Blues,08:11
+2021-01-25 03:45:26,Wax Tailor,Que Sera,Jazz,03:40
+2021-01-25 13:06:48,Muse,Stockholm Syndrome,Rock,07:06
+2021-01-26 07:58:50,Stone Sour,Song #3,Rock,01:33
+2021-01-26 20:28:34,Black Lips,Mad Dog,Blues,06:03
+2021-01-28 17:29:16,Rooney,I'm Shakin',Pop,03:52
+2021-01-29 03:38:57,Yo Gotti,I Don't Like,Hip Hop,06:22
+2021-01-29 16:58:09,The Weeknd,Rolling Stone,Pop,04:20
+2021-01-30 20:39:02,Buddy Guy,Too Many Tears,Blues,03:28
+2021-01-30 23:04:51,Fall Out Boy,Where Did The Party Go,Rock,02:59
+2021-01-31 15:01:42,Terror X Crew,Fear Not (mi Fovasai),Hip Hop,03:33
+2021-01-31 16:33:32,The Script,No Good In Goodbye,Rock,02:51
+2021-02-01 04:23:59,Morgan Heritage,Hail Rastafari,Reggae,07:44
+2021-02-05 04:25:40,Avril Lavigne,Losing Grip,Pop,06:33
+2021-02-05 20:36:10,The Black Angels,18 Years,Blues,02:34
+2021-02-06 09:53:51,Jojo Effect,Moods,Jazz,04:23
+2021-02-06 19:55:30,Helen Kane,I Wanna Be Loved By You,Jazz,02:10
+2021-02-07 08:40:48,Robert Plant,Rich Woman,Blues,03:43
+2021-02-08 08:12:17,Weezer,Dope Nose,Pop,05:12
+2021-02-08 14:22:31,Marcus Johnson,Believe,Jazz,06:12
+2021-02-10 05:25:59,Breaking Benjamin,Topless,Pop,02:56
+2021-02-11 01:55:38,Six60,Don't Forget Your Roots,Reggae,04:23
+2021-02-11 16:34:26,Muse,Unnatural Selection,Rock,01:33
+2021-02-11 22:48:01,The Holdup,Head And Money,Reggae,06:14
+2021-02-13 01:41:34,Morgan Delt,Some Sunsick Day,Rock,05:13
+2021-02-14 05:28:13,Will Reagan,Set A Fire,Pop,04:00
+2021-02-14 23:48:04,Fall Out Boy,W.a.m.s.,Rock,03:40
+2021-02-16 02:48:59,Alpha Blondy,Apartheid Is Nazism,Reggae,01:47
+2021-02-18 10:44:01,Alt-j,Fitzpleasure,Rock,04:39
+2021-02-18 19:40:31,Dean Martin,La Giostra (the Merry-go-round),Jazz,06:55
+2021-02-19 18:16:22,A Perfect Circle,Gravity,Rock,08:07
+2021-02-19 20:02:02,Cymande,Changes,Jazz,03:02
+2021-02-20 20:00:29,Slightly Stoopid,Babylon Is Falling,Reggae,04:54
+2021-02-21 17:09:54,Graveyard,Ungrateful Are The Dead,Blues,07:36
+2021-02-21 21:34:34,Michael Franti & Spearhead,The Thing That Helps Me Get Through,Reggae,05:13
+2021-02-22 03:16:05,Lil' Flip,Let's Ride,Hip Hop,05:06
+2021-02-22 13:29:56,Young Dro,Man In The Trunk,Hip Hop,07:06
+2021-02-22 19:43:08,Fall Out Boy,Thnks Fr Th Mmrs,Pop,04:45
+2021-02-23 11:03:22,Novelists,Eyes Wide Shut,Jazz,02:37
+2021-02-24 03:29:46,Uncle Kracker,Drift Away,Pop,02:54
+2021-02-24 16:46:39,The Beatnuts,Find Us (in The Back Of The Club),Hip Hop,05:07
+2021-02-25 17:57:53,Duke Dumont,Ocean Drive,Pop,02:31
+2021-02-25 18:01:13,The Weeknd,Loft Music,Pop,02:26
+2021-02-26 08:27:24,Aaron Kamm And The One Drops,Dont Say,Reggae,01:33
+2021-02-26 20:27:39,Rjd2,The Horror,Jazz,05:39
+2021-02-27 03:11:43,The Heartbeats,Your Way,Blues,06:40
+2021-02-28 20:23:07,My Chemical Romance,Our Lady Of Sorrows,Pop,03:45
+2021-03-02 07:25:47,Groove Armada,History (feat. Will Young),Jazz,08:10
+2021-03-02 10:02:13,Gorillaz,Don't Get Lost In Heaven,Pop,04:01
+2021-03-02 17:40:43,Eric Clapton,Believe In Life,Blues,06:30
+2021-03-03 21:45:08,Chris Cornell,Black Hole Sun,Rock,03:13
+2021-03-04 22:42:52,Richie Spice,Blood Again,Reggae,07:12
+2021-03-05 07:57:19,Deerhunter,He Would Have Laughed,Pop,03:57
+2021-03-06 13:09:20,Eugene Mcdaniels,Cherrystones,Jazz,07:52
+2021-03-06 15:24:48,Stick Figure,Hard Drugs,Reggae,04:06
+2021-03-06 21:32:32,Tord Gustavsen Trio,Where Breathing Starts,Jazz,02:23
+2021-03-07 13:47:23,Yung Joc,It's Goin' Down (feat. Nitti),Pop,06:57
+2021-03-08 05:14:52,Wiz Khalifa,Hopes & Dreams,Pop,01:46
+2021-03-08 21:26:01,Ghostface Killah,Return Of The Iron Man,Hip Hop,04:46
+2021-03-09 18:18:58,311,Beyond The Gray Sky,Reggae,06:48
+2021-03-09 21:44:01,Sza,Broken Clocks,Pop,03:15
+2021-03-11 00:10:29,Oli Brown,No Diggity,Blues,02:26
+2021-03-11 02:13:43,Kelly Clarkson,Piece By Piece,Pop,02:47
+2021-03-12 01:03:23,Lorde,Homemade Dynamite,Pop,07:56
+2021-03-13 05:33:27,Foxy Brown,Oh Yeah,Pop,02:01
+2021-03-14 10:46:11,Hozier,Someone New,Pop,08:16
+2021-03-14 18:12:23,Have A Nice Life,Bloodhail,Jazz,08:14
+2021-03-15 01:14:03,Lil Wayne,Bill Gates,Pop,06:18
+2021-03-15 15:03:57,Panic! At The Disco,Casual Affair,Pop,01:55
+2021-03-16 12:28:53,Floetry,Floetic,Pop,06:53
+2021-03-16 19:00:03,Lorde,Homemade Dynamite,Pop,07:56
+2021-03-17 18:15:31,The Meters,Down By The River,Jazz,06:32
+2021-03-19 02:16:42,Car Bomb,Secrets Within,Jazz,07:40
+2021-03-20 01:23:00,John Legend,Green Light (feat. André 3000),Pop,05:56
+2021-03-20 03:13:25,Brent Cobb,Diggin' Holes,Rock,05:54
+2021-03-21 03:04:57,Hanni El Khatib,Pay No Mind,Blues,05:18
+2021-03-21 17:32:34,Robin Trower,If You Believe In Me,Blues,07:44
+2021-03-21 19:22:01,Louis The Child,Better Not (with Wafia),Pop,07:18
+2021-03-22 00:44:19,Avicii,Without You (feat. Sandro Cavazza),Pop,04:52
+2021-03-22 08:18:03,Alif Tree,Forgotten Places,Jazz,04:08
+2021-03-22 15:31:02,Paul Mccartney,Let It Be,Rock,06:22
+2021-03-22 18:25:00,Seth Walker,Call My Name,Blues,04:19
+2021-03-24 10:19:19,Little Mix,Wasabi,Pop,07:49
+2021-03-25 00:54:09,Iron & Wine,Call It Dreaming,Rock,05:07
+2021-03-25 02:00:24,Mountain,Beside The Sea,Blues,05:25
+2021-03-25 08:21:47,Drake,Back To Back,Pop,05:58
+2021-03-26 04:35:55,Gov't Mule,Traveling Tune,Blues,04:41
+2021-03-26 08:50:26,Abstract Rude,Garcon A La Pipe,Hip Hop,05:13
+2021-03-26 11:16:20,Miri Ben-ari,Star Spangled Banner,Hip Hop,01:37
+2021-03-27 23:22:56,Cymande,Willy's Headache,Jazz,03:56
+2021-03-28 01:46:40,Imagine Dragons,Birds,Rock,03:40
+2021-03-28 03:33:01,Gina Sicilia,They Never Pay Me,Blues,04:52
+2021-03-29 10:37:18,Jatin-lalit,Yeh Ladka Hai Allah,Pop,02:24
+2021-03-29 23:38:40,J-kwon,Tipsy 09,Hip Hop,05:26
+2021-03-30 05:14:38,Beastie Boys,Ch-check It Out,Rock,04:39
+2021-03-30 17:38:50,Kenny Wayne Shepherd,Hey; What Do You Say,Blues,02:55
+2021-04-01 05:40:24,Algorythmik,Andrew's Break,Jazz,07:28
+2021-04-01 06:31:56,The White Stripes,My Doorbell,Blues,02:14
+2021-04-02 14:29:01,Michael Franti & Spearhead,Gloria,Reggae,05:00
+2021-04-02 22:39:34,Iration,Get Back To Me,Reggae,06:35
+2021-04-03 10:44:31,Mike Pinto,A Thousand Years Ago,Reggae,05:43
+2021-04-03 20:02:59,Rival Sons,Thundering Voices,Blues,07:26
+2021-04-03 20:53:41,The Black Keys,The Lengths,Blues,01:39
+2021-04-04 04:17:05,The War On Drugs,Red Eyes,Rock,04:46
+2021-04-04 14:25:34,Sinne Eeg,Hours Of Ours,Jazz,03:13
+2021-04-05 01:30:34,Leaf Beach,Warm Brew,Jazz,03:53
+2021-04-05 08:44:14,Jason Derulo,In My Head,Pop,05:44
+2021-04-07 09:31:48,Meshuggah,Swarm,Jazz,04:51
+2021-04-07 23:06:50,Ty Segall,Manipulator,Blues,04:40
+2021-04-08 07:16:18,Luciano,My People Rise,Reggae,04:33
+2021-04-11 17:26:19,Dorothy,Medicine Man,Blues,06:33
+2021-04-11 21:20:32,The Decemberists,The Crane Wife 3,Pop,06:42
+2021-04-12 02:32:00,Devin Townsend Band,Suicide,Jazz,04:09
+2021-04-12 06:20:03,Boney James,Touch,Jazz,07:58
+2021-04-12 23:10:10,Valley Of The Sun,Hearts Aflame,Blues,03:09
+2021-04-13 14:43:49,Russ,Willy Wonka (feat. Paulina & Jafé),Pop,07:01
+2021-04-14 03:33:29,Imagine Dragons,Not Today,Rock,07:08
+2021-04-15 10:31:52,Mack 10,W/s Foe Life,Hip Hop,04:34
+2021-04-15 19:15:42,Saint Motel,Puzzle Pieces,Pop,04:34
+2021-04-17 09:18:06,Lndn Drgs,Hop Out (feat. Curren$y),Hip Hop,05:00
+2021-04-19 00:17:27,Lee "scratch" Perry,Beat Down Babylon,Reggae,07:55
+2021-04-19 04:27:32,Tegan And Sara,Back In Your Head,Pop,02:34
+2021-04-20 14:07:43,Whethan,When I'm Down,Pop,04:21
+2021-04-22 16:30:47,System Of A Down,Cigaro,Rock,06:07
+2021-04-22 17:52:58,Oh Wonder,Drive,Pop,05:12
+2021-04-22 23:24:37,The Heavy,Cause For Alarm,Blues,05:54
+2021-04-23 10:12:36,The Dear Hunter,The Revival,Jazz,04:47
+2021-04-23 14:05:10,Eldissa,Fame,Jazz,08:12
+2021-04-23 15:08:03,Unkle,Keys To The Kingdom,Jazz,03:00
+2021-04-23 19:38:47,Jimmy Cliff,Guns Of Brixton,Reggae,06:16
+2021-04-23 19:43:28,My Chemical Romance,Thank You For The Venom,Pop,05:27
+2021-04-24 21:13:12,Susan Tedeschi,Wrapped In The Arms Of Another,Blues,07:20
+2021-04-25 22:42:20,Panic! At The Disco,The End Of All Things,Pop,06:02
+2021-04-26 15:55:55,Jah Cure,Stronger,Reggae,06:32
+2021-04-27 20:55:28,Terror X Crew,Mashed Fruit (kobosta),Hip Hop,05:06
+2021-04-29 11:24:48,The Expendables,Filthy Dub,Reggae,03:39
+2021-04-30 10:59:48,Krs-one,I Was There,Hip Hop,07:43
+2021-04-30 19:11:19,Needtobreathe,Let's Stay Home Tonight,Rock,04:53
+2021-04-30 23:44:36,Lynyrd Skynyrd,Still Unbroken,Blues,04:22
+2021-05-01 15:16:22,Sonic Youth,What A Waste,Blues,06:03
+2021-05-02 17:42:19,The Bravery,Hatef--k,Rock,04:50
+2021-05-03 03:04:48,Wolfmother,Caroline,Blues,02:37
+2021-05-04 19:18:43,Ballyhoo!,A Lesson In Gravity,Reggae,05:10
+2021-05-05 00:10:12,Kanye West,Graduation Day,Pop,06:57
+2021-05-06 01:38:02,Dirty Heads,Headphones,Reggae,03:05
+2021-05-06 09:34:37,Brand New,Jaws Theme Swimming,Pop,02:03
+2021-05-07 05:23:02,Pink Martini,Song Of The Black Lizard,Jazz,03:41
+2021-05-07 18:01:28,The California Honeydrops,Carolina Peach,Blues,06:32
+2021-05-07 22:45:08,Arcade Fire,Crown Of Love,Pop,01:31
+2021-05-08 00:59:36,The Hunches,A Flower In The Ending,Blues,03:05
+2021-05-09 02:40:44,Ella Fitzgerald,Sunshine Of Your Love,Blues,03:39
+2021-05-09 18:40:59,Clinton Fearon,Blood For Blood,Reggae,04:15
+2021-05-09 23:04:22,X-team,Veren Na Hip-hop,Hip Hop,06:34
+2021-05-09 23:59:39,The Weeknd,True Colors,Pop,06:10
+2021-05-10 03:22:40,Blockhead,Jet Son,Jazz,03:10
+2021-05-10 23:04:20,Bring Me The Horizon,Chelsea Smile,Rock,08:06
+2021-05-11 08:48:22,Alice Cooper,Paranormal,Blues,07:36
+2021-05-11 21:02:47,Sevendust,Denial,Rock,03:46
+2021-05-12 03:19:52,Bullet For My Valentine,Over It,Rock,04:24
+2021-05-12 04:04:00,Collective Soul,Heavy,Pop,05:40
+2021-05-12 11:28:37,Simon Curtis,Pit Of Vipers,Pop,03:27
+2021-05-13 09:49:55,Creed,Hide,Rock,03:45
+2021-05-14 13:02:05,Kanye West,Good Morning,Pop,06:32
+2021-05-14 14:56:00,Sum 41,Some Say,Pop,04:51
+2021-05-15 01:21:17,The Parlor Mob,Everything You're Breathing For,Blues,06:36
+2021-05-15 09:26:03,Peter And Gordon,Five Hundred Miles,Blues,07:52
+2021-05-15 12:18:35,Thee Oh Sees,Dead Man's Gun,Blues,02:32
+2021-05-16 03:18:52,Muse,Resistance,Rock,03:18
+2021-05-17 11:51:41,Florida Georgia Line,Stay,Pop,06:44
+2021-05-18 02:45:45,Flume,Insane,Pop,08:05
+2021-05-19 01:06:03,Trina,Don't Trip,Hip Hop,07:02
+2021-05-19 07:14:52,Pinback,Non Photo-blue,Rock,02:41
+2021-05-20 00:15:48,Michael Franti & Spearhead,We Do This Every Day,Reggae,02:18
+2021-05-22 09:21:04,Sonic Youth,Do You Believe In Rapture?,Blues,01:35
+2021-05-22 09:52:38,Big Kuntry King,Yeah [i'm On It],Hip Hop,04:13
+2021-05-22 19:27:44,Peter White,When I'm Alone,Jazz,03:10
+2021-05-23 03:00:46,The Dining Rooms,Tunnel,Jazz,04:23
+2021-05-23 14:50:13,Tomorrows Bad Seeds,Ready Fe Rock,Reggae,02:29
+2021-05-23 15:17:11,The Score,Shakedown,Rock,03:21
+2021-05-24 06:39:59,Johnny Burnette & The Rock 'n' Roll Trio,Tear It Up,Blues,02:27
+2021-05-25 03:01:05,Seedless,It's Always Something,Reggae,06:49
+2021-05-26 05:11:11,Susan Tedeschi,Loving You Is Sweeter Than Ever,Blues,06:59
+2021-05-28 00:44:55,Jaymes Young,Moondust,Rock,01:56
+2021-05-28 12:00:18,Tab Benoit,Gone Too Long,Blues,03:27
+2021-05-29 06:10:01,Jazzamor,Fly Me To The Moon,Jazz,01:35
+2021-05-31 01:56:18,Fitz And The Tantrums,Out Of My League,Pop,03:27
+2021-06-02 08:13:36,Tommy Castro,Lucky In Love,Blues,04:01
+2021-06-02 09:09:09,Cake,Thrills,Pop,05:10
+2021-06-03 11:17:00,Hollie Cook,Walking In The Sand,Reggae,05:24
+2021-06-04 03:25:09,Nicki Minaj,Roman Holiday,Pop,07:39
+2021-06-06 16:55:07,Marcus Johnson,18th & M,Jazz,06:30
+2021-06-07 09:54:26,Phish,Meatstick,Blues,08:01
+2021-06-07 21:51:22,The Main Ingredient,Summer Breeze,Jazz,01:46
+2021-06-08 11:13:26,Arctic Monkeys,Dangerous Animals,Rock,03:32
+2021-06-09 03:25:29,Pandora,Popurri Juan Gabriel Medley,Pop,06:16
+2021-06-09 22:40:42,Rebelution,So High (yeti Beats Remix),Reggae,05:26
+2021-06-10 04:54:17,Max Romeo,Let The Power Fall On I,Reggae,06:43
+2021-06-10 20:44:36,The Bouncing Souls,True Believers,Pop,03:26
+2021-06-11 10:17:56,T-pain,Church,Pop,06:58
+2021-06-11 16:25:54,Positive,Blessing After Blessing,Reggae,01:42
+2021-06-12 07:36:32,Imogen Heap,Hide And Seek,Pop,07:11
+2021-06-14 06:56:40,Lukas Nelson And Promise Of The Real,(forget About) Georgia,Blues,06:27
+2021-06-15 00:24:55,Kanye West,Black Skinhead,Pop,08:00
+2021-06-16 13:40:39,The Bravery,Hatef--k,Rock,04:50
+2021-06-16 14:46:56,Brian Simpson,What Cha Gonna Do?,Jazz,07:31
+2021-06-18 14:34:08,Ne Obliviscaris,And Plague Flowers The Kaleidoscope,Jazz,03:17
+2021-06-19 02:29:05,The Delta Saints,Are You,Blues,05:24
+2021-06-19 21:52:44,Jadakiss,Why,Pop,04:23
+2021-06-21 06:29:21,Green Day,21 Guns,Pop,03:21
+2021-06-21 22:17:25,Blues Saraceno,Wicked Gonna Come,Blues,06:15
+2021-06-22 18:43:56,Ty Segall,The Faker,Blues,02:14
+2021-06-23 11:20:21,Green Day,21st Century Breakdown,Pop,03:40
+2021-06-24 05:00:10,Demarco,Duppy Know Who Fi Frighten,Reggae,07:41
+2021-06-26 17:09:39,Ashanti,Happy,Pop,08:00
+2021-06-27 14:03:10,Backini,Who's Mad @ Who,Jazz,01:56
+2021-06-27 15:12:45,Christina Perri,The Lonely,Pop,01:58
+2021-06-29 01:50:04,Clairo,4ever,Pop,03:26
+2021-06-29 20:37:53,Beach Fossils,What A Pleasure,Pop,02:04
+2021-06-29 22:15:44,Magic!,Rude (acoustic),Reggae,04:17
+2021-07-01 07:21:02,Vendetta Beats,Evangelion,Hip Hop,08:12
+2021-07-02 06:42:47,A Day To Remember,Mr. Highway's Thinking About The End,Pop,02:11
+2021-07-02 15:11:07,Thee Oh Sees,Lupine Ossuary,Blues,01:39
+2021-07-02 19:53:23,Kina Grannis,Can't Help Falling In Love,Pop,04:13
+2021-07-03 04:16:57,Welshly Arms,Hammer,Blues,03:16
+2021-07-03 09:38:21,Meshuggah,I Am Colossus,Jazz,06:23
+2021-07-04 23:26:19,Jordan Rakei,Hope,Jazz,01:34
+2021-07-06 02:16:08,Eddie Vedder,You've Got To Hide Your Love Away,Rock,07:15
+2021-07-06 07:02:44,Wynton Marsalis,Ice Cream,Jazz,06:28
+2021-07-06 17:16:16,Kbong,Hold On,Reggae,04:52
+2021-07-09 15:34:53,Khalid,Cold Blooded,Pop,05:38
+2021-07-10 12:27:16,Tame Impala,Past Life,Rock,02:50
+2021-07-11 09:16:51,Twenty One Pilots,A Car; A Torch; A Death,Pop,05:37
+2021-07-12 07:36:38,Zac Efron,What Time Is It,Pop,05:47
+2021-07-14 01:20:31,113,Jackpot,Hip Hop,04:56
+2021-07-14 07:15:37,Between The Buried And Me,Fossil Genera (a Feed From Cloud Mountain),Jazz,07:42
+2021-07-14 20:42:58,Jackie Neal,Down In Da Club,Blues,05:03
+2021-07-15 20:44:53,Kid Cudi,Day 'n' Nite,Pop,07:11
+2021-07-16 13:04:42,Static-x,Black And White,Rock,07:40
+2021-07-16 22:57:08,Soja,My Life Alone,Reggae,06:28
+2021-07-17 14:11:29,We As Human,Take The Bullets Away (feat. Lacey Sturm),Rock,08:00
+2021-07-17 16:22:54,Hollywood Undead,Day Of The Dead,Rock,02:42
+2021-07-18 12:47:35,Tiësto,Split (only U),Pop,04:36
+2021-07-22 05:22:56,The Dear Hunter,Ouroboros,Jazz,05:00
+2021-07-22 13:19:55,The Score,Revolution,Rock,03:45
+2021-07-23 22:46:16,Gym Class Heroes,The Fighter (feat. Ryan Tedder),Pop,07:12
+2021-07-24 03:22:19,Dirty Heads,Realize It,Reggae,06:22
+2021-07-24 03:46:04,Joe Bonamassa,A Place In My Heart,Blues,07:37
+2021-07-24 17:26:53,The Green,Keep On,Reggae,04:35
+2021-07-24 17:38:11,Young Thug,Relationship (feat. Future),Pop,07:20
+2021-07-25 10:23:09,Snoop Dogg,Young; Wild & Free (feat. Bruno Mars),Pop,03:15
+2021-07-25 15:19:14,Martha Reeves & The Vandellas,Nowhere To Run,Pop,08:04
+2021-07-25 18:40:46,Lincoln Durham,How Does A Crow Fly,Blues,07:40
+2021-07-26 11:50:18,Nat King Cole,Those Lazy; Hazy; Crazy Days Of Summer,Jazz,06:45
+2021-07-26 12:06:11,Nujabes,Beat Laments The World,Jazz,07:47
+2021-07-26 14:00:39,Pastor Troy,F**k Y'all,Hip Hop,07:47
+2021-07-27 05:38:52,Magic!,Paradise,Reggae,04:08
+2021-07-29 04:54:07,Suff Daddy,Macrowave,Jazz,06:55
+2021-07-29 14:24:04,The Blackwater Fever,Can't Help Yourself,Blues,05:59
+2021-08-01 12:41:27,Waka Flocka Flame,Rap Game Stressful,Hip Hop,03:44
+2021-08-02 00:16:05,The Bones Of J.r. Jones,Hammers And Nails,Blues,07:09
+2021-08-02 02:10:25,No Vacation,Beach Bummer,Rock,08:00
+2021-08-03 03:30:38,Jd Mcpherson,It’s All Over But The Shouting,Blues,02:29
+2021-08-03 03:52:37,Damian Marley,Welcome To Jamrock,Reggae,02:06
+2021-08-03 11:54:57,Drake,Over,Pop,03:00
+2021-08-03 16:52:00,Anita Baker,No One In The World,Jazz,03:38
+2021-08-03 22:29:25,Clemens,Hop Rundt,Hip Hop,02:40
+2021-08-04 11:50:46,Jatin-lalit,Yeh Ladka Hai Allah,Pop,02:24
+2021-08-04 14:02:21,Drake,Over My Dead Body,Pop,07:49
+2021-08-05 06:00:17,Peter Tosh,Rok With Me,Reggae,01:43
+2021-08-05 11:15:34,Grandson,Thoughts & Prayers,Rock,02:38
+2021-08-05 13:16:58,Santana,Sideways (feat. Citizen Cope),Blues,03:04
+2021-08-06 02:30:34,Nonpoint,Breaking Skin,Rock,03:04
+2021-08-10 14:17:18,Ty Segall,Imaginary Person,Blues,08:12
+2021-08-10 18:50:05,Billy Bi$hop,Back To The City,Hip Hop,05:57
+2021-08-11 03:30:16,The Shaolin Afronauts,Kilimanjaro,Jazz,02:28
+2021-08-12 13:03:53,Petey Pablo,Show Me The Money,Pop,07:05
+2021-08-13 05:42:06,Dj Khaled,Hip Hop,Hip Hop,04:29
+2021-08-13 15:55:53,The Beautiful Girls,On A Clear Day,Reggae,04:26
+2021-08-14 18:17:50,Charlie Puth,Attention,Pop,02:14
+2021-08-15 04:16:27,The Black Angels,The Executioner,Blues,01:55
+2021-08-15 19:06:47,The Record Company,The Movie Song,Blues,04:08
+2021-08-17 06:35:25,Tinariwen,Imidiwaren,Blues,08:07
+2021-08-17 15:42:53,Miri Ben-ari,Star Spangled Banner,Hip Hop,01:37
+2021-08-18 00:49:46,Meshuggah,Born In Dissonance,Jazz,07:57
+2021-08-20 16:54:15,Yazmin Lacey,90 Degrees,Jazz,04:30
+2021-08-20 19:14:26,Florence + The Machine,Drumming Song,Pop,02:36
+2021-08-21 00:42:16,Yppah,Film Burn,Jazz,02:57
+2021-08-21 22:42:45,Straylight Run,Existentialism On Prom Night,Pop,05:24
+2021-08-23 08:30:34,Madeleine Peyroux,Weary Blues,Jazz,06:43
+2021-08-24 01:32:50,Godsmack,Cryin' Like A Bitch!!,Rock,05:32
+2021-08-24 03:59:27,African Underground,Intro,Hip Hop,05:30
+2021-08-24 16:28:03,Broken Bells,It's That Talk Again,Rock,07:02
+2021-08-26 17:24:15,Sum 41,Walking Disaster,Pop,08:12
+2021-08-27 13:44:08,Aidonia,So Good,Reggae,02:48
+2021-08-27 15:49:36,Grouplove,Hippy Hill,Rock,08:10
+2021-08-27 18:04:51,I Wayne,Book Of Life,Reggae,05:15
+2021-08-27 20:43:46,Tesseract,Smile,Jazz,05:15
+2021-08-28 08:10:57,Playboi Carti,Love Hurts (feat. Travis Scott),Pop,08:03
+2021-08-28 08:27:59,Thee Oh Sees,Minotaur,Blues,02:11
+2021-08-29 15:09:04,The Weeknd,The Birds Pt. 1,Pop,03:25
+2021-08-29 17:30:41,Akon,Ghetto,Pop,04:14
+2021-08-29 22:42:56,Bombay Bicycle Club,Always Like This,Pop,07:14
+2021-08-30 02:00:28,The Derek Trucks Band,I'll Find My Way,Blues,07:55
+2021-08-30 07:52:32,Capleton,Jah Jah City,Reggae,07:10
+2021-08-30 22:14:45,Lukas Nelson And Promise Of The Real,Want Me Around,Blues,01:55
+2021-08-31 04:24:51,Adam Jensen,The Mystic,Rock,04:55
+2021-09-01 08:12:43,Wayne Wonder,Intro,Reggae,06:40
+2021-09-01 16:57:19,Stone Sour,Get Inside,Rock,06:07
+2021-09-02 07:58:41,The Kills,Fuck The People,Blues,05:58
+2021-09-03 00:44:36,Drake,10 Bands,Pop,02:48
+2021-09-03 11:29:26,Murphy Lee,Wat Da Hook Gon Be,Pop,02:44
+2021-09-04 10:00:41,Mighty Diamonds,Reggae Street,Reggae,02:44
+2021-09-04 23:50:43,Magic!,No Evil,Reggae,03:34
+2021-09-07 04:25:14,Fourplay,Sunday Morning,Jazz,07:08
+2021-09-07 10:04:08,Steel Panther,Community Property,Rock,06:23
+2021-09-07 13:01:44,Fleet Foxes,White Winter Hymnal,Pop,06:16
+2021-09-09 09:43:00,Tropical Depression,Atin Cu Pung Singsing,Reggae,04:09
+2021-09-10 03:06:12,Crime Mob,Put Yo Hands Up,Hip Hop,04:15
+2021-09-10 06:15:28,Thievery Corporation,Overstand,Jazz,04:47
+2021-09-11 15:23:55,Mark Ronson,Nothing Breaks Like A Heart (feat. Miley Cyrus),Pop,03:12
+2021-09-13 10:53:19,Social Distortion,Reach For The Sky,Pop,03:13
+2021-09-13 11:37:40,Beyoncé,Ring The Alarm,Pop,02:47
+2021-09-14 17:41:31,Calvin Harris,Outside,Pop,03:07
+2021-09-15 07:47:03,Queens Of The Stone Age,Feet Don't Fail Me,Blues,02:58
+2021-09-15 23:09:38,Easy Star All-stars,The Great Gig In The Sky,Reggae,02:15
+2021-09-16 11:16:30,Ella Fitzgerald,Winter Wonderland,Blues,05:51
+2021-09-16 18:45:24,Rod Stewart,The Way You Look Tonight,Rock,01:46
+2021-09-17 02:57:00,Staind,Suffer,Rock,04:35
+2021-09-17 17:51:57,Nat King Cole,Love Is A Many Splendored Thing,Jazz,03:25
+2021-09-21 00:23:50,Anderson East,House Is A Building,Blues,07:34
+2021-09-21 08:02:30,Skindred,Kill The Power,Reggae,06:12
+2021-09-22 15:56:37,The Wood Brothers,Made It Up The Mountain,Blues,01:51
+2021-09-22 19:37:36,Bryson Tiller,Don't,Pop,07:19
+2021-09-22 22:26:16,Kanye West,Everything I Am,Pop,08:05
+2021-09-23 18:39:47,Natasha Bedingfield,Pocketful Of Sunshine,Pop,04:23
+2021-09-24 00:34:24,The Fray,Love Don't Die,Rock,02:00
+2021-09-24 14:36:05,Michael Franti & Spearhead,Gloria,Reggae,05:00
+2021-09-24 18:33:15,Imagine Dragons,Birds,Rock,03:40
+2021-09-24 18:54:12,Wheeland Brothers,California Kids,Reggae,04:24
+2021-09-25 08:58:13,Interpol,Nyc,Rock,02:45
+2021-09-26 08:05:02,Feist,1234,Pop,06:24
+2021-09-26 22:02:54,Gregory Porter,Holding On,Jazz,07:18
+2021-09-27 07:58:24,Weezer,Burndt Jamb,Rock,05:48
+2021-09-29 05:14:07,The Flaming Lips,Do You Realize??,Pop,02:04
+2021-10-01 07:10:08,Stacie Orrico,Stuck,Pop,03:54
+2021-10-02 01:01:24,Lucky Dube,Kiss No Frog,Reggae,06:40
+2021-10-02 13:20:23,One Drop,Garden Of Daisies,Reggae,01:39
+2021-10-02 19:16:51,Nothing But Thieves,Amsterdam,Rock,06:35
+2021-10-04 10:35:28,Ray Lamontagne,Empty,Pop,02:44
+2021-10-04 16:42:53,Flunk,I Love Music,Jazz,02:29
+2021-10-04 23:15:28,Luciano,I Can You Can,Reggae,03:49
+2021-10-05 03:05:06,Sara Bareilles,Between The Lines,Pop,05:51
+2021-10-05 21:00:58,Saliva,Ladies And Gentlemen,Rock,04:53
+2021-10-08 06:23:27,J. Rawls,Are You Listening?,Hip Hop,03:09
+2021-10-10 00:22:48,Post Malone,I Fall Apart,Pop,05:57
+2021-10-10 07:55:04,Groove Armada,Suntoucher,Jazz,03:51
+2021-10-11 06:07:44,Smallpools,Million Bucks,Pop,07:39
+2021-10-11 12:57:02,Pepper,Drunk Girl,Reggae,03:45
+2021-10-11 20:07:31,Fat Joe,All The Way Up,Pop,01:53
